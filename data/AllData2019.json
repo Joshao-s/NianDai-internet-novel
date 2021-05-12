@@ -1,0 +1,2137 @@
+{
+    "\u5e26\u7740\u5546\u573a\u7a7f\u516d\u96f6": {
+        "number": "514558",
+        "into": "\u7f8e\u6ecb\u6ecb\u7684\u5c0f\u65e5\u5b50",
+        "year": "2019"
+    },
+    "\u516d\u96f6\u5e74\u4ee3\u5c0f\u798f\u661f": {
+        "number": "469589",
+        "into": "\u6295\u9519\u80ce\u540e\u6211\u7684\u751f\u6d3b\u7f8e\u6ecb\u6ecb",
+        "year": "2019"
+    },
+    "\u4f60\u5c31\u662f\u998b\u4ed6\u8eab\u5b50[\u4e03\u96f6]": {
+        "number": "107493",
+        "into": "\u4ea4\u9519\u7684\u65f6\u4ee3\uff0c\u627e\u5230\u88ab\u6211\u9057\u843d\u7684\u4f60",
+        "year": "2019"
+    },
+    "\u4e03\u5341\u5e74\u4ee3\u517b\u592b\u8bb0": {
+        "number": "316492",
+        "into": "\u7537\u4e3b\uff1a\u6211\u592a\u96be\u4e86\uff01\uff01\uff01",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u61d2\u5ab3\u5987": {
+        "number": "402429",
+        "into": "\u6bcf\u5929\u90fd\u5728\u7b49\u79bb\u5a5a",
+        "year": "2019"
+    },
+    "\u7a7f\u4e66\u540e\uff0c\u6211\u5fc3\u60f3\u4e8b\u6210": {
+        "number": "316284",
+        "into": "\u8ddf\u6211\u8d70\uff0c\u8981\u5565\u90fd\u6709",
+        "year": "2019"
+    },
+    "\u592a\u76d1\u7a7f\u5230\u4e5d\u96f6\u5e74\u4ee3": {
+        "number": "403811",
+        "into": "\u6211\u7238\u662f\u592a\u76d1",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u9738\u6c14\u9152\u7f8e\u4eba": {
+        "number": "330671",
+        "into": "\u516b\u5341\u5e74\u4ee3\uff0c\u9738\u6c14\u5356\u9152\uff0c\u56db\u65b9\u6536\u94b1",
+        "year": "2019"
+    },
+    "\u4e03\u5341\u5e74\u4ee3\u7537\u77e5\u9752": {
+        "number": "192779",
+        "into": "\u7a7f\u8d8a\u7537\u77e5\u9752x\u4e03\u5341\u5e74\u4ee3\u5a07\u5973",
+        "year": "2019"
+    },
+    "\u6ee1\u7ea7\u5927\u4f6c\u56de\u6751\u641e\u4e8b[\u516b\u96f6]": {
+        "number": "271108",
+        "into": "\u519c\u79d1\u5927\u4f6c\uff0c\u7a7f\u4e66\u79cd\u7530\uff0c\u8ba4\u771f\u641e\u4e8b",
+        "year": "2019"
+    },
+    "\u6d0b\u8471\u604b\u4eba": {
+        "number": "411773",
+        "into": "\u7231\u4eba\u7684\u5fc3\uff0c\u662f\u6d0b\u8471\u505a\u7684\u3002",
+        "year": "2019"
+    },
+    "\u5927\u9662\u767d\u5bcc\u7f8e": {
+        "number": "949878",
+        "into": "\u91cd\u751f\u5f53\u7136\u8981\u66f4\u5e78\u798f",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u5e74\u4ee3\u7684\u5947\u8469\u5bb6\u5ead": {
+        "number": "203486",
+        "into": "\u672c\u571f\u5973\u00d7\u7a7f\u4e66\u5973\u00d7\u91cd\u751f\u5973\u00d7\u7a7f\u8d8a\u5973",
+        "year": "2019"
+    },
+    "\u672b\u4e16\u5927\u4f6c\u662f80\u5e74\u4ee3\u7684\u5916\u6302": {
+        "number": "425141",
+        "into": "\u79cd\u82b1\u56fd\u7684\u5154\u5b50\u6700\u68d2",
+        "year": "2019"
+    },
+    "\u7a7f\u5230\u4e03\u96f6\u5ac1\u9738\u603b[\u7a7f\u4e66]": {
+        "number": "409889",
+        "into": "\u7a7f\u4e66\u5c0f\u5973\u5b50\u75bc\u5ba0\u7537\u914d\u51b0\u78b4\u9738\u603b",
+        "year": "2019"
+    },
+    "beta\u5728\u516d\u96f6": {
+        "number": "436157",
+        "into": "\u661f\u9645\u7a7f\u516d\u96f6",
+        "year": "2019"
+    },
+    "\u4e03\u5341\u5e74\u4ee3\u5c0f\u77e5\u9752": {
+        "number": "323143",
+        "into": "\u4e00\u4e2a\u55b7\u568f\u5f15\u53d1\u7684\u8840\u6848",
+        "year": "2019"
+    },
+    "\u6211\u5728\u4e03\u5341\u5e74\u4ee3\u597d\u5403\u61d2\u505a": {
+        "number": "152446",
+        "into": "\u8fd9\u8eba\u8d62\u7684\u4eba\u751f\uff01",
+        "year": "2019"
+    },
+    "\u56de\u5230\u4e03\u96f6\u5ac1\u5012\u9709\u7537\u914d": {
+        "number": "428981",
+        "into": "\u5e74\u4ee3\u6587\u91cc\u7684\u5012\u9709\u7537\u914d\u600e\u4e48\u90a3\u4e48\u5e05",
+        "year": "2019"
+    },
+    "\u7a7f\u5230\u4e03\u96f6\u5ac1\u53cd\u6d3e[\u7a7f\u4e66]": {
+        "number": "154165",
+        "into": "\u65e0\u80fd\u597d\u8272\u7684\u4e08\u592b\u4ed6\u53d8\u4e86",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u4e4b\u61d2\u6c49\u4e08\u592b\u7684\u594b\u8d77": {
+        "number": "121040",
+        "into": "\u4e03\u96f6\u5e74\u4ee3\uff0c\u61d2\u6c49\u4e08\u592b\u594b\u8d77\u4e86\uff01",
+        "year": "2019"
+    },
+    "\u4e03\u5341\u5e74\u4ee3\u5a07\u5ba0\u59bb": {
+        "number": "783863",
+        "into": "\u9664\u4e86\u5ba0\u4f60\uff0c\u8fd8\u662f\u5ba0\u4f60",
+        "year": "2019"
+    },
+    "\u62ef\u6551\u5e74\u4ee3\u6587\u7684\u53cd\u6d3e\u7537\u4e3b[\u7a7f\u4e66]": {
+        "number": "258813",
+        "into": "\u75c5\u5f31\u5c0f\u7f8e\u4eba\u624b\u6495\u6781\u54c1",
+        "year": "2019"
+    },
+    "\u516d\u5341\u5e74\u4ee3\u901b\u6dd8\u5b9d": {
+        "number": "422054",
+        "into": "\u516d\u5341\u5e74\u7684\u901a\u8d27\u81a8\u80c0\u600e\u4e48\u7834\uff1f",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u7ea2\u5305\u7fa4": {
+        "number": "137553",
+        "into": "\u9b42\u7a7f\u4e03\u96f6\u53d1\u5bb6\u81f4\u5bcc",
+        "year": "2019"
+    },
+    "\u516d\u96f6\u4e4b\u7537\u4e3b\u6781\u54c1\u5a18": {
+        "number": "209834",
+        "into": "\u539f\u6765\u6211\u7684\u513f\u5b50\u662f\u7537\u4e3b",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u798f\u661f\u5973\u914d": {
+        "number": "155650",
+        "into": "\u53ea\u8981\u591f\u52aa\u529b\uff0c\u9709\u8fd0\u4e5f\u80fd\u9006\u8f6c\u6210\u597d\u8fd0",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u5e74\u4ee3\u6587\u5973\u4e3b\u95fa\u871c": {
+        "number": "264520",
+        "into": "\u5973\u4e3b\uff0c\u6211\u4eec\u4e0d\u7ea6\uff01",
+        "year": "2019"
+    },
+    "\u6211\u5728\u4e03\u96f6\u5e74\u4ee3\u5237\u6dd8\u5b9d": {
+        "number": "533657",
+        "into": "\u6dd8\u5b9d\u81f4\u5bcc\uff0c\u79d1\u6280\u5174\u56fd",
+        "year": "2019"
+    },
+    "\u4e94\u5341\u5e74\u4ee3\u4e0a\u95e8\u5973\u5a7f": {
+        "number": "283471",
+        "into": "\u76ee\u6807\uff0c\u5403\u4e0a\u5546\u54c1\u7cae",
+        "year": "2019"
+    },
+    "\u56db\u4e2a\u5927\u4f6c\u513f\u5b50\u5e26\u6211\u8eba\u8d62": {
+        "number": "389550",
+        "into": "\u7a7a\u95f4\u517b\u513f\u5b50\u723d\u6b6a\u6b6a",
+        "year": "2019"
+    },
+    "\u636e\u8bf4\u6211\u662f\u53cd\u6d3e\u5973\u4e00": {
+        "number": "274263",
+        "into": "\u5973\u4e3b\u4e3a\u590d\u4ec7\u5fcd\u8fb1\u8d1f\u91cd\u7684\u6545\u4e8b",
+        "year": "2019"
+    },
+    "\u5927\u4e54\u7684\u4e03\u5341\u5e74\u4ee3": {
+        "number": "943077",
+        "into": "\u5f53\u56e2\u5ba0\u7684\u65e5\u5b50\u4e0d\u8981\u592a\u723d\uff01\uff01",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u732a\u732a\u5973\u5b69": {
+        "number": "176717",
+        "into": "\u5c0f\u732a\u732a\u7684\u5feb\u843d\u751f\u6d3b",
+        "year": "2019"
+    },
+    "\u6211\u5728\u5e74\u4ee3\u6587\u91cc\u5403\u72d7\u7cae": {
+        "number": "281165",
+        "into": "\u5728\u90a3\u4e9b\u56f4\u89c2\u7537\u5973\u4e3b\u604b\u7231\u7684\u65e5\u5b50\u91cc",
+        "year": "2019"
+    },
+    "\u77e5\u9752\u7537\u4e3b\u7684\u70ae\u7070\u539f\u914d[\u7a7f\u4e66]": {
+        "number": "395466",
+        "into": "\u8fd0\u6c14\u7206\u68da\u6751\u82b1vs\u6e29\u6da6\u8179\u9ed1\u77e5\u9752",
+        "year": "2019"
+    },
+    "\u4e94\u96f6\u5e74\u4ee3\u5c0f\u5973\u5b50": {
+        "number": "100000",
+        "into": "\u4ed6\u5176\u5b9e\u5f88\u7231\u4f60",
+        "year": "2019"
+    },
+    "\u6211\u88ab\u5927\u4f6c\u8bf1\u5a5a\u4e86[\u4e03\u96f6]": {
+        "number": "613217",
+        "into": "\u6f02\u4eae\u5973\u77e5\u9752\uff0c\u5168\u80fd\u5c0f\u519b\u5ac2",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u767d\u5bcc\u7f8e\u5728\u6587\u5de5\u56e2": {
+        "number": "200966",
+        "into": "\u4eba\u751f\u8d77\u8dd1\u7ebf\u7ec8\u70b9X\u4eba\u751f\u8d77\u8dd1\u7ebf\u7ec8\u70b9",
+        "year": "2019"
+    },
+    "\u5c71\u6cb3\u6545\u4eba[\u6c11\u56fd]": {
+        "number": "239442",
+        "into": "\u4ed6\u662f\u4e2a\u6697\u9ed1\u7cfb\u5c11\u5e74",
+        "year": "2019"
+    },
+    "\u7a7f\u5230\u4e94\u96f6\u517b\u7537\u914d": {
+        "number": "553518",
+        "into": "\u5e74\u4ee3\u6587\u91cc\u7684\u5c0f\u5976\u72d7",
+        "year": "2019"
+    },
+    "\u504f\u504f\u559c\u6b22\u4f60\u4e4b\u5b88\u62a4": {
+        "number": "183604",
+        "into": "\u519b\u6821\u5973\u6559\u5b98\u97e9\u6f47\u548c\u6c88\u6587\u6d9b\u7684\u6545\u4e8b",
+        "year": "2019"
+    },
+    "\u91cd\u751f\u4e00\u4e5d\u516b\u4e8c": {
+        "number": "1128092",
+        "into": "\u5c0f\u9547\u59d1\u5a18\u7684\u9006\u88ad\u4eba\u751f",
+        "year": "2019"
+    },
+    "\u4e94\u5341\u5e74\u4ee3\u5c71\u6cb3\u5c81\u6708": {
+        "number": "198820",
+        "into": "\u611a\u516c\u79fb\u5c71\uff0c\u5c71\u6cb3\u8ba9\u9053",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u751c\u5ba0\u5a07\u6c14\u82b1": {
+        "number": "351779",
+        "into": "\u6211\u7684\u5a07\u6c14\u5305\u5973\u53cb",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u672a\u6765\u5927\u4f6c\u7684\u5f6a\u608d\u59b9\u59b9[\u4e03\u96f6]": {
+        "number": "340772",
+        "into": "\u5c0f\u624b\u4e00\u63e3\uff0c\u8c01\u4e5f\u4e0d\u60ef\u3002",
+        "year": "2019"
+    },
+    "\u968b\u5510\u82f1\u96c43\u4e4b\u66f2\u5b81\u901a\u5e7d": {
+        "number": "193520",
+        "into": "\u539f\u521b\u7f57\u901a\u7684\u7231\u60c5\u7ebf",
+        "year": "2019"
+    },
+    "\u516d\u96f6\u5ab3\u5987\u53d1\u5bb6\u81f4\u5bcc[\u7a7f\u4e66]": {
+        "number": "1479386",
+        "into": "\u7cfb\u7edf\u4e3b\u4eba\u7a7f\u5230\u516d\u96f6\u5f00\u6302\u53d1\u5bb6\u81f4\u5bcc",
+        "year": "2019"
+    },
+    "\u6211\u5728\u4e03\u96f6\u5f53\u5927\u4f6c[\u7a7f\u4e66]": {
+        "number": "164248",
+        "into": "\u53d1\u5bb6\u517b\u5d3d\u62b1\u5927\u817f\uff0c\u4e00\u4e2a\u90fd\u4e0d\u80fd\u843d",
+        "year": "2019"
+    },
+    "\u60a6\u5c14\u5609\u884c": {
+        "number": "101031",
+        "into": "\u6c11\u56fd\u516c\u5b50\u548c\u68a8\u56ed\u620f\u5b50\u7684\u4fd7\u5957\u6545\u4e8b\u3002",
+        "year": "2019"
+    },
+    "\u516d\u5341\u5e74\u4ee3\u5de7\u5ab3\u5987": {
+        "number": "746391",
+        "into": "\u8fd9\u7cd9\u6c49\u5b50\u548b\u8fd9\u4e48\u5ba0\u5ab3\u5987\u513f\u5462",
+        "year": "2019"
+    },
+    "\u4e03\u5341\u5e74\u4ee3\u4e4b\u5ac1\u7ed9\u8001\u7537\u4eba[\u6cbb\u6108]": {
+        "number": "234579",
+        "into": "\u7a7f\u8d8a\u5973\u6551\u8d4e70\u5e74\u4ee3\u51c4\u60e8\u4e0b\u653e\u6559\u6388",
+        "year": "2019"
+    },
+    "\u6211\u9760\u79d1\u6280\u8d62\u798f\u8fd0[\u4e03\u96f6]": {
+        "number": "476073",
+        "into": "\u4eba\u751f\u8d62\u5bb6\u7684\u53d1\u5bb6\u53f2",
+        "year": "2019"
+    },
+    "\u7537\u914d\u8981\u5b66\u4e60\uff0c\u4e0d\u8c08\u604b\u7231": {
+        "number": "123478",
+        "into": "\u7537\u914d\u52bf\u8981\u62ff\u8bfa\u8d1d\u5c14\u5956",
+        "year": "2019"
+    },
+    "\u4e5d\u96f6\u4e4b\u6076\u5987\u5f53\u5bb6": {
+        "number": "280971",
+        "into": "\u66b4\u53d1\u6237\u8ffd\u59bb\u8def",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u5e74\u4ee3\u6587\u70ae\u7070\u5973\u914d[\u4e03\u96f6]": {
+        "number": "656737",
+        "into": "\u522b\u62ff\u5973\u914d\u4e0d\u5f53\u4eba\u7269",
+        "year": "2019"
+    },
+    "\u6211\u517b\u6d3b\u4e86\u5168\u4eba\u7c7b": {
+        "number": "231446",
+        "into": "\u5c06\u79cd\u7530\u8d2f\u5f7b\u5230\u5e95",
+        "year": "2019"
+    },
+    "\u91cd\u751f\u516b\u96f6\u4e4b\u5ac1\u7ed9\u6b7b\u5bf9\u5934": {
+        "number": "188099",
+        "into": "\u6765\u81ea\u6b7b\u5bf9\u5934\u7684\u7231",
+        "year": "2019"
+    },
+    "\u4e94\u96f6\u5a07\u8f6f\u513f": {
+        "number": "121584",
+        "into": "\u4e94\u96f6\u5a07\u8f6f\u513f",
+        "year": "2019"
+    },
+    "\u91cd\u751f\u516b\u96f6\u597d\u751f\u6d3b": {
+        "number": "173676",
+        "into": "\u5927\u5c3e\u5df4\u72fc\u662f\u5982\u4f55\u62d0\u5e26\u5ab3\u5987\u7684",
+        "year": "2019"
+    },
+    "\u7a7f\u4e66\u540e\u6211\u53ea\u60f3\u79cd\u5730": {
+        "number": "434569",
+        "into": "\u6211\u5728\u4e03\u96f6\u79cd\u5730\u6bd4\u5f53\u795e\u4ed9\u597d\u73a9\uff01",
+        "year": "2019"
+    },
+    "70\u4e4b\u70ae\u7070\u539f\u5973\u4e3b\u91cd\u751f\u4e86": {
+        "number": "379683",
+        "into": "\u91cd\u751f\u540e\uff0c\u6b3a\u8d1f\u8fc7\u6211\u7684\u90fd\u906d\u62a5\u5e94\u4e86",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u5e74\u4ee3\u9526\u9ca4\u5a07\u5a07[\u91cd\u751f]": {
+        "number": "206867",
+        "into": "\u91cd\u751f\u540e\u6211\u88ab\u9526\u9ca4\u9644\u4e86\u8eab",
+        "year": "2019"
+    },
+    "\u6211\u513f\u5b50\u7a7f\u5230\u6211\u5f53\u6821\u82b1\u90a3\u51e0\u5e74": {
+        "number": "340512",
+        "into": "\u5230\u5e95\u54ea\u4e2a\u662f\u6211\u7238\uff1f",
+        "year": "2019"
+    },
+    "\u6211\u5728\u5e74\u4ee3\u6587\u91cc\u88ab\u8001\u516c\u517b\u5927": {
+        "number": "123363",
+        "into": "\u6211\u5728\u5e74\u4ee3\u6587\u91cc\u88ab\u8001\u516c\u517b\u5927",
+        "year": "2019"
+    },
+    "\u4e94\u96f6\u5e74\u4ee3\u519b\u56e2\u7eff\u82b1": {
+        "number": "101522",
+        "into": "\u62e5\u62b1\u7231",
+        "year": "2019"
+    },
+    "\u5996\u4e09\u4ee3\u4e03\u96f6\u5bfb\u5b9d": {
+        "number": "254016",
+        "into": "\u5996\u4e09\u4ee3\u7a7f\u8d8a\u4e03\u5341\u5e74\u4ee3",
+        "year": "2019"
+    },
+    "\u6625\u85e4\u6811": {
+        "number": "231421",
+        "into": "\u5979\u50cf\u4e00\u6bb5\u6625\u85e4\uff0c\u67d4\u97e7\u800c\u6709\u751f\u547d\u529b",
+        "year": "2019"
+    },
+    "\u516d\u96f6\u517b\u5a03\u7f8e\u6ecb\u6ecb": {
+        "number": "303025",
+        "into": "\u6218\u5929\u6597\u5730\u517b\u5a03\u8bb0",
+        "year": "2019"
+    },
+    "\u6fc0\u60c5\u71c3\u70e7\u5728\u516d\u96f6": {
+        "number": "387563",
+        "into": "",
+        "year": "2019"
+    },
+    "\u6211\u8179\u808c\u5462\uff01[\u7a7f\u4e66]": {
+        "number": "479122",
+        "into": "\u6276\u6211\u8d77\u6765\uff0c\u6211\u8fd8\u80fd\u8dd1\uff01",
+        "year": "2019"
+    },
+    "\u672b\u4e16\u5973\u9996\u9886\u5728\u4e03\u96f6": {
+        "number": "464695",
+        "into": "\u6211\u5728\u4e03\u96f6\u56db\u4e2a\u59d0",
+        "year": "2019"
+    },
+    "\u672b\u4e16\u5973\u5728\u4e03\u96f6": {
+        "number": "151466",
+        "into": "\u4f60\u7238\u7238\u8fd8\u662f\u4f60\u7238\u7238",
+        "year": "2019"
+    },
+    "\u7a7f\u5230\u516d\u4e00\u5e74\u52aa\u529b\u6d3b\u4e0b\u53bb": {
+        "number": "518567",
+        "into": "\u6d3b\u7740\u662f\u4e00\u4ef6\u5f88\u8270\u96be\u7684\u4e8b",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u5c0f\u5a07\u59bb": {
+        "number": "210371",
+        "into": "\u56fd\u5bb6\u53d1\u7684\u5bf9\u8c61\u7ec8\u4e8e\u5230\u8d27\u4e86",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u5e74\u4ee3\u6587\u7537\u4e3b\u7684\u524d\u59bb": {
+        "number": "458138",
+        "into": "\u597d\u597d\u5b66\u4e60\uff0c\u7edd\u4e0d\u65e9\u604b~",
+        "year": "2019"
+    },
+    "\u4e03\u5341\u5e74\u4ee3\u5a07\u5a07\u5ab3": {
+        "number": "367482",
+        "into": "\u6211\u8001\u5a46\u5168\u4e16\u754c\u6700\u5a07\u6c14\uff01",
+        "year": "2019"
+    },
+    "\u72ec\u7acb\u7535\u5f71\u4eba": {
+        "number": "598977",
+        "into": "\u7535\u5f71\u8fd9\u4e09\u5341\u5e74",
+        "year": "2019"
+    },
+    "\u7a7f\u8fdb\u5e74\u4ee3\u6587\u6211\u6210\u4e86\u7537\u4e3b\u638c\u5fc3\u5ba0": {
+        "number": "215133",
+        "into": "\u53ea\u60f3\u82df\u5230\u7ed3\u5c40\uff0c\u5374\u8fce\u6765\u4e86\u4fee\u7f57\u573a\uff01",
+        "year": "2019"
+    },
+    "\u5a07\u5a07\u5973\u914d\u5728\u4e03\u96f6": {
+        "number": "439831",
+        "into": "\u7206\u5a07\u7cbe\u7075\uff0c\u5728\u7ebf\u6c42\u5403\u8089",
+        "year": "2019"
+    },
+    "\u4faf\u5e9c\u5ae1\u5973\u7684\u516d\u96f6\u5e74\u4ee3": {
+        "number": "236090",
+        "into": "\u8fd9\u5c31\u662f\u5ae1\u5973\u7a7f\u8d8a\u516d\u96f6\u5e74\u4ee3\u7684\u6545\u4e8b",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u4e4b\u5bb6\u6709\u716e\u592b": {
+        "number": "157704",
+        "into": "\u6211\u5ab3\u5987\u5c45\u7136\u4e0d\u662f\u4efb\u52a1NPC?",
+        "year": "2019"
+    },
+    "\u5e26\u7740\u7a7a\u95f4\u5403\u559d\u4e0d\u6101\u7684\u4e03\u96f6\u751f\u6d3b": {
+        "number": "259531",
+        "into": "\u5e26\u7740\u7a7a\u95f4\u7a7f\u8d8a\u7684\u60a0\u95f2\u4eba\u751f\uff01",
+        "year": "2019"
+    },
+    "\u8427\u8001\u592a\u7684\u5e74\u4ee3\u4e4b\u65c5[\u5feb\u7a7f]": {
+        "number": "1837632",
+        "into": "\u8001\u592a\u592a\u620f\u771f\u591a",
+        "year": "2019"
+    },
+    "\u5e74\u4ee3\u6587\u5973\u4e3b[\u5feb\u7a7f]": {
+        "number": "242633",
+        "into": "\u8d60\u9001\u6781\u54c1\u5a46\u5a46\uff0c\u5973\u4e3b\uff1a\u8981\u4e0d\u8d77\uff01",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u5973\u914d\u6709\u70b9\u751c[\u7a7f\u4e66]": {
+        "number": "320864",
+        "into": "\u4ece\u77ee\u77ec\u7a77\u5230\u767d\u5bcc\u7f8e",
+        "year": "2019"
+    },
+    "\u751c\u679c\u7f8e\u4eba\u5728\u516b\u96f6": {
+        "number": "145847",
+        "into": "\u8d70\u7a0b\u5e8f\u8fd8\u662f\u76f4\u63a5\u6c11\u653f\u5c40",
+        "year": "2019"
+    },
+    "\u91cd\u751f\u4e5d\u5341\u5e74\u4ee3\u70ae\u7070\u5973\u914d": {
+        "number": "180159",
+        "into": "\u7a7f\u6210\u4e3a\u5973\u4e3b\u7684\u70ae\u7070\u95fa\u871c\uff0c\u600e\u4e48\u529e\uff1f",
+        "year": "2019"
+    },
+    "\u56de\u5230\u516d\u96f6\u4e4b\u5bb6\u957f\u91cc\u77ed": {
+        "number": "209800",
+        "into": "\u7a7f\u8d8a\u56de\u516d\u96f6\u5e74\u4ee3\u7684\u5e73\u51e1\u751f\u6d3b",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u5e74\u4ee3\u5c0f\u620f\u7cbe[\u7a7f\u4e66]": {
+        "number": "100073",
+        "into": "\u620f\u7cbe\u5c11\u5973\uff0c\u4f20\u5947\u4eba\u751f",
+        "year": "2019"
+    },
+    "\u4e5d\u96f6\u60a0\u95f2\u5973\u914d": {
+        "number": "520520",
+        "into": "\u82e5\u6709\u4eba\u8d81\u4f60\u4e0d\u5907\u7a83\u53d6\u5c5e\u4e8e\u4f60\u7684\u4eba\u751f",
+        "year": "2019"
+    },
+    "\u72ed\u8def\u76f8\u9022\u52c7\u8005\u80dc\uff08\u7cfb\u7edf\uff09\u4e0a": {
+        "number": "242920",
+        "into": "\u7cfb\u7edf\u5e26\u4f60\u5b89\u8425\u624e\u5be8\u8f6c\u6218\u5c71\u6797",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u8001\u516c\u7684\u6e23\u524d\u59bb[\u4e03\u96f6]": {
+        "number": "121958",
+        "into": "",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u5e74\u4ee3\u6587\u91cc\u7684\u767d\u5bcc\u7f8e": {
+        "number": "176854",
+        "into": "\u7a7f\u6210\u4e66\u91cc\u6df1\u60c5\u7537\u4e8c\u7684\u70ae\u7070\u59b9\u59b9",
+        "year": "2019"
+    },
+    "\u4e5d\u5341\u5e74\u4ee3\u594b\u6597\u8bb0": {
+        "number": "534475",
+        "into": "\u4e5d\u5341\u5e74\u4ee3\u5355\u8eab\u5973\u9752\u5e74\u7684\u594b\u6597\u53f2",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u6781\u54c1\u5973\u77e5\u9752": {
+        "number": "213200",
+        "into": "\u4e03\u96f6\u5973\u77e5\u9752\u594b\u6597\u6253\u8138\u65e5\u5e38",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u7537\u4e3b\u7684\u5a07\u6c14\u5305\u524d\u59bb[\u7a7f\u4e66]": {
+        "number": "200159",
+        "into": "\u8001\u516c\u6709\u9690\u75be\u600e\u4e48\u529e\uff1f",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u4e03\u96f6\u5e74\u4ee3\u6cfc\u8fa3\u5973": {
+        "number": "471402",
+        "into": "\u8c01\u8bf4\u5973\u5b50\u4e0d\u5982\u7537",
+        "year": "2019"
+    },
+    "\u5e26\u7740\u5bbf\u820d\u56de\u516d\u96f6": {
+        "number": "322433",
+        "into": "\u6323\u94b1\u5f88\u91cd\u8981\u4f60\u66f4\u91cd\u8981",
+        "year": "2019"
+    },
+    "\u672b\u4e16\u7a7f\u516d\u96f6": {
+        "number": "703470",
+        "into": "\u672b\u4e16\u535a\u58eb\u4e0e\u6e23\u5f02\u80fd\u8005\u7a7f\u8d8a\u516d\u5341\u5e74\u4ee3",
+        "year": "2019"
+    },
+    "\u6211\u8ddf\u53cd\u6d3e\u5728\u4e03\u96f6\u8fc7\u65e5\u5b50": {
+        "number": "400749",
+        "into": "\u6bcf\u5929\u90fd\u8981\u9632\u6b62\u5927\u4f6c\u9ed1\u5316\u6210\u53cd\u6d3e",
+        "year": "2019"
+    },
+    "\u592b\u59bb\u53cc\u53cc\u5230\u516d\u96f6": {
+        "number": "176902",
+        "into": "\u4e3a\u4e86\u5403\u9971\u800c\u594b\u6597",
+        "year": "2019"
+    },
+    "\u4e03\u5341\u5e74\u4ee3\u6d77\u5996\u9972\u517b\u6307\u5357": {
+        "number": "284986",
+        "into": "\u77e5\u9752vs\u56a3\u5f20\u8dcb\u6248\u5c0f\u4eba\u9c7c\uff0c\u517b\u6210",
+        "year": "2019"
+    },
+    "\u9738\u603b\u91cd\u751f\u8d5a\u94b1\u5fd9": {
+        "number": "373056",
+        "into": "\u5148\u8d5a\u4ed6\u4e00\u4e2a\u4ebf\uff01",
+        "year": "2019"
+    },
+    "\u5728\u5e74\u4ee3\u6587\u4e2d\u53d1\u5bb6\u81f4\u5bcc": {
+        "number": "151768",
+        "into": "\u6211\u7ed1\u5b9a\u4e86\u517b\u6b96\u7cfb\u7edf",
+        "year": "2019"
+    },
+    "\u4e09\u4e2a\u5927\u4f6c\u7684\u5ba0\u59b9\u65e5\u5e38": {
+        "number": "723601",
+        "into": "\u4e00\u8def\u9006\u88ad\uff0c\u623f\u8f66\u73e0\u5b9d\u6536\u5230\u624b\u8f6f",
+        "year": "2019"
+    },
+    "\u91cd\u751f\u516b\u96f6\u4e4b\u519b\u5ac2\u5f53\u5bb6": {
+        "number": "307417",
+        "into": "\u56de\u5230\u516b\u96f6\u5e74\u4ee3\uff0c\u521b\u4e1a\u6210\u4ebf\u4e07\u5bcc\u7fc1",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u4e4b\u4f4d\u9762\u5783\u573e\u5546\u4eba": {
+        "number": "648102",
+        "into": "\u5012\u817e\u5f02\u7a7a\u95f4\u4f4d\u9762\u5783\u573e\uff0c\u8d5a\u94b1\u80fd\u529b\u6760",
+        "year": "2019"
+    },
+    "\u4e00\u89c9\u9192\u6765\u6211\u8eab\u63e3\u5de8\u6b3e[\u7a7f\u4e66]": {
+        "number": "458469",
+        "into": "\u771f\u5343\u91d1\uff0c\u9006\u88ad\uff01",
+        "year": "2019"
+    },
+    "[\u4f2a\u88c5\u8005\u540c\u4eba]\u5c82\u66f0\u65e0\u8863\uff0c\u4e0e\u5b50\u540c\u888d": {
+        "number": "426040",
+        "into": "\u6a13\u76cf\u81bc\u9146\u8037\u69cc",
+        "year": "2019"
+    },
+    "\u7a7f\u5230\u516d\u5341\u5e74\u4ee3": {
+        "number": "266030",
+        "into": "\u516d\u5341\u5e74\u4ee3\u517b\u5a03\u8bb0",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u5c0f\u5973\u5de5": {
+        "number": "151112",
+        "into": "\u670d\u88c5\u5382\u5c0f\u5973\u5de5\u7684\u6210\u957f\u53f2",
+        "year": "2019"
+    },
+    "\u7a7f\u56de\u516b\u96f6\u5ac1\u53cd\u6d3e": {
+        "number": "184604",
+        "into": "\u6b8b\u75be\u53cd\u6d3e\u548c\u4ed6\u7684\u767d\u6708\u5149\u5973\u4e3b",
+        "year": "2019"
+    },
+    "\u6211\uff0c\u5929\u751f\u597d\u8fd0[1949]": {
+        "number": "352126",
+        "into": "\u597d\u8fd0\u7537\u5728\u5e74\u4ee3\u6d2a\u6d41\u4e2d\u7684\u5e78\u798f\u751f\u6d3b",
+        "year": "2019"
+    },
+    "\u8fdb\u51fb\u7684\u751f\u6d3b\u6d41\uff08\u5feb\u7a7f\uff09": {
+        "number": "1326836",
+        "into": "\u6c89\u8ff7\u5347\u7ea7\u65e0\u5fc3\u604b\u7231",
+        "year": "2019"
+    },
+    "\u7231\u5728\u7b14\u4e0b": {
+        "number": "320617",
+        "into": "\u5bf9\u513f\u5973\u7684\u7231\u90fd\u5728\u7b14\u4e0b\u2026\u2026",
+        "year": "2019"
+    },
+    "\u516b\u5341\u5e74\u4ee3\u5ac1\u7cd9\u6c49": {
+        "number": "164361",
+        "into": "\u5ba0\u4f60\u6ca1\u5546\u91cf",
+        "year": "2019"
+    },
+    "\u540e\u5a18\u4e0d\u6613": {
+        "number": "305974",
+        "into": "\u517b\u5b69\u5b50\u7684\u9e21\u98de\u72d7\u8df3",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u5c0f\u9526\u9ca4": {
+        "number": "560000",
+        "into": "\u5c0f\u9526\u9ca4\u5728\u4e03\u5341\u5e74\u4ee3\u7684\u7f8e\u597d\u751f\u6d3b",
+        "year": "2019"
+    },
+    "\u6492\u5a07\u7cbe[\u5e74\u4ee3\u6587]": {
+        "number": "208257",
+        "into": "\u7f8e\u8c8c\u5c11\u5973\u6d41\u843d\u5230\u7537\u4e3b\u8eab\u8fb9",
+        "year": "2019"
+    },
+    "\u4f4f\u5728\u7537\u795e\u9694\u58c1[\u7a7f\u4e66]": {
+        "number": "648390",
+        "into": "\u8d85\u751c\u5440~",
+        "year": "2019"
+    },
+    "\u516d\u96f6\u7a7a\u95f4\u7f8e\u6ecb\u6ecb": {
+        "number": "180550",
+        "into": "\u74dc\u679c\u98d8\u9999\uff0c\u5403\u4e2a\u75db\u5feb",
+        "year": "2019"
+    },
+    "\u4e03\u5341\u5e74\u4ee3\u80cc\u666f\u677f": {
+        "number": "196139",
+        "into": "\u80cc\u666f\u677f\u4e0d\u60f3\u88ab\u70ae\u7070\uff01",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u7537\u4e3b\u54e5\u54e5\u7684\u4f5c\u6b7b\u59bb[\u7a7f\u4e66]": {
+        "number": "301033",
+        "into": "\u7a7f\u4e66\u5973\u914d\u548c\u672c\u571f\u7537\u70ae\u7070\u95f4\u7684\u7231\u60c5\uff01",
+        "year": "2019"
+    },
+    "\u4e94\u96f6\u91cd\u751f\u65e5\u5e38": {
+        "number": "859591",
+        "into": "\u8fd9\u76db\u4e16\u5982\u4f60\u6240\u613f",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u4e4b\u4f5b\u7cfb\u70ae\u7070\u6700\u597d\u547d": {
+        "number": "194833",
+        "into": "\u597d\u8fd0\u6765\u4e86\u6321\u4e5f\u6321\u4e0d\u4f4f",
+        "year": "2019"
+    },
+    "\u6625\u82b1\u7eaa\u4e8b": {
+        "number": "122997",
+        "into": "\u8d75\u5b50\u7531\u628a\u7eaa\u751f\u62d6\u56de\u6765\u4e4b\u540e\u7684\u6545\u4e8b",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u5e74\u4ee3\u72ec\u5ba0\u59bb": {
+        "number": "397302",
+        "into": "\u6211\u628a\u6e29\u67d4\u90fd\u7ed9\u4f60",
+        "year": "2019"
+    },
+    "\u5973\u9ad8\u7ba1\u4e03\u96f6\u79cd\u7530\u8bb0\uff08\u7a7f\u4e66\uff09": {
+        "number": "108742",
+        "into": "\u505a\u81ea\u5df1\u7684\u5927\u5973\u4e3b\uff01",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u6751\u59d1\u7684\u6625\u5929": {
+        "number": "328627",
+        "into": "\u5b85\u5973\u643a\u8d85\u5e02\u7a7f\u5230\u4e03\u96f6\u5076\u9047\u5927\u957f\u817f",
+        "year": "2019"
+    },
+    "\u516b\u5341\u5e74\u4ee3\u5f6a\u608d\u5ab3\u5987": {
+        "number": "600050",
+        "into": "\u542c\u8bf4\u4ed6\u5a36\u4e86\u6cfc\u5987\u56de\u5bb6",
+        "year": "2019"
+    },
+    "\u6211\u5bb6\u5b69\u5b50\u8d85\u591a[\u5e74\u4ee3\u6587]": {
+        "number": "643708",
+        "into": "\u60ca\uff01\u6211\u7238\u62b1\u7740\u6211\u7684\u817f\u53eb\u5988\uff01",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u91d1\u521a\u82ad\u6bd4": {
+        "number": "538127",
+        "into": "\u6587\u80fd\u5f20\u5634\u55b7\u6e23\u6e23\uff0c\u6b66\u80fd\u62f3\u5934\u6253\u5929\u4e0b",
+        "year": "2019"
+    },
+    "\u5e26\u7740\u624b\u6e38\u56de\u4e03\u96f6": {
+        "number": "648530",
+        "into": "\u6e38\u620f\u5728\u624b\uff0c\u7269\u8d44\u6211\u6709",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u5e74\u4ee3\u798f\u661f\u9ad8\u7167": {
+        "number": "1123608",
+        "into": "\u6210\u4e3a\u5168\u6751\u7684\u56e2\u5ba0",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u7f8e\u4eba\u9c7c": {
+        "number": "306828",
+        "into": "\u6015\u4f1a\u6709\u9c9b\u4eba\u5728\u5cb8\uff0c\u5bf9\u6708\u6d41\u73e0",
+        "year": "2019"
+    },
+    "\u79d1\u6280\u5b85\u62ef\u6551\u4e16\u754c\uff01": {
+        "number": "303921",
+        "into": "\u7279\u79cd\u5175\u78b0\u4e0a\u6b66\u529b\u7206\u68da\u5b85\u535a\u58eb",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u4e4b\u638c\u5fc3\u5a07[\u7a7f\u4e66]": {
+        "number": "541786",
+        "into": "\u627e\u56de\u90a3\u4e2a\u6e29\u6696\u7684\u6000\u62b1",
+        "year": "2019"
+    },
+    "\u5e26\u7740\u519c\u573a\u56de\u5c0f\u5b66": {
+        "number": "391093",
+        "into": "\u53d1\u5bb6\u81f4\u5bcc",
+        "year": "2019"
+    },
+    "\u5973\u4fee\u58eb\u5728\u4e94\u5341\u5e74\u4ee3": {
+        "number": "324878",
+        "into": "\u968f\u968f\u4fbf\u4fbf\u5c31\u6df7\u6210\u4e86\u5927\u4f6c",
+        "year": "2019"
+    },
+    "\u6253\u5de5\u59b9\u7684\u6625\u5929": {
+        "number": "208416",
+        "into": "\u5904\u5bf9\u8c61\u6211\u662f\u8ba4\u771f\u7684\uff01",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u5e74\u4ee3\u5973\u914d\u53d1\u5bb6\u81f4\u5bcc": {
+        "number": "177377",
+        "into": "\u7a7f\u4e66\u4e03\u5341\u5e74\u4ee3\u5f00\u59cb\u723d\u6587\u4eba\u751f",
+        "year": "2019"
+    },
+    "\u91cd\u56de\u516d\u96f6": {
+        "number": "356736",
+        "into": "\u91cd\u56de\u8fc7\u53bb\uff0c\u6539\u5199\u672a\u6765",
+        "year": "2019"
+    },
+    "\u91cd\u751f\u4e03\u96f6\u918b\u7f38\u5175\u54e5\u7684\u5c0f\u9752\u6885": {
+        "number": "227243",
+        "into": "\u6211\u7684\u751f\u6d3b\u6211\u505a\u4e3b\uff0c\u672a\u6765\u6211\u521b\u9020",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u840c\u59bb\u6709\u7a7a\u95f4": {
+        "number": "462074",
+        "into": "\u4f60\u559c\u6b22\u6211\u4ec0\u4e48\uff1f\u6211\u6539\uff01",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u5e74\u4ee3\u5c0f\u592b\u59bb": {
+        "number": "386381",
+        "into": "\u751c\u7f8e\u8f6f\u59b9\u5b50\u548c\u51b7\u6f20\u77e5\u9752\u4e92\u6362\u4e86\u8eab\u4f53",
+        "year": "2019"
+    },
+    "\u55f2\u7cbe\u4eba\u8bbe\u8d70\u504f\u5566\uff3b\u7a7f\u4e66\uff3d": {
+        "number": "140602",
+        "into": "\u55f2\u7cbe\uff1f\u54fc\uff01\u6211\u624d\u2026\u2026\u5624\u5624\u5624~",
+        "year": "2019"
+    },
+    "\u53cd\u6d3e\u8001\u5a46\u7684\u516d\u96f6\u751f\u6d3b": {
+        "number": "154953",
+        "into": "\u60f3\u6539\u9020\u53cd\u6d3e\uff0c\u5374\u88ab\u88ab\u53cd\u6d3e\u6539\u9020",
+        "year": "2019"
+    },
+    "90\u5e74\u4ee3\u7164\u8001\u677f": {
+        "number": "389999",
+        "into": "\u6559\u5bfc\u4f60\uff0c\u5ba0\u574f\u4f60",
+        "year": "2019"
+    },
+    "\u6211\u4e5f\u76f8\u4fe1\u4f60": {
+        "number": "102917",
+        "into": "\u6211\u76f8\u4fe1\u81ea\u5df1\uff0c\u6211\u4e5f\u76f8\u4fe1\u4f60\u3002",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u4e03\u96f6\u6362\u4eb2\u5973\u914d": {
+        "number": "387009",
+        "into": "\u6362\u4eb2\u5973\u914d\u624d\u662f\u771f\u5927\u4f6c",
+        "year": "2019"
+    },
+    "\u529f\u5fb7\u5546\u5e97[\u5feb\u7a7f]": {
+        "number": "205612",
+        "into": "\u7528\u529f\u5fb7\u6362\u5e97\u4e3b~",
+        "year": "2019"
+    },
+    "\u6211\u5728\u516d\u5341\u5e74\u4ee3\u4e3a\u5730\u5e9c\u670d\u52a1": {
+        "number": "704938",
+        "into": "\u5de5\u4f5c\uff0c\u6211\u662f\u5e26\u7f16\u7684",
+        "year": "2019"
+    },
+    "\u516d\u96f6\u7530\u56ed\u4e50": {
+        "number": "161914",
+        "into": "\u5e26\u7740\u7a7a\u95f4\u594b\u6597\u5728\u9965\u997f\u5e74\u4ee3\u3002",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u7537\u4e3b\u7684\u70ae\u7070\u59bb": {
+        "number": "285776",
+        "into": "\u4e00\u4e2a\u4e92\u64a9\u7684\u6545\u4e8b\u3002",
+        "year": "2019"
+    },
+    "\u6211\u7ed9\u6587\u7269\u627e\u5bf9\u8c61": {
+        "number": "181080",
+        "into": "\u8fd9\u4e2a\u4e16\u754c\u5bf9\u5355\u8eab\u72d7\u5f88\u4e0d\u53cb\u597d",
+        "year": "2019"
+    },
+    "\u516d\u96f6\u5e74\u4ee3\u517b\u5b69\u5b50": {
+        "number": "539435",
+        "into": "\u4e00\u6839\u85e4\u4e0a\u56db\u4e2a\u5a03\uff0c\u6323\u94b1\u517b\u4ed6",
+        "year": "2019"
+    },
+    "\u5e26\u7740\u7a7a\u95f4\u7a7f\u516d\u96f6": {
+        "number": "152724",
+        "into": "\u6211\u5728\u516d\u96f6\u53d1\u5bb6\u81f4\u5bcc",
+        "year": "2019"
+    },
+    "\u91cd\u751f\u4e5d\u96f6\u4e4b\u6211\u6709\u77ff": {
+        "number": "165601",
+        "into": "\u91cd\u751f\u56de\u516b\u5c81\u53d1\u5bb6\u81f4\u5bcc\uff01",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u6211\u90a3\u989c\u63a7\u4e00\u5bb6\u5b50": {
+        "number": "291719",
+        "into": "\u519c\u6751\u989c\u63a7\u5bb6\u65cf\u7684\u53d1\u5bb6\u53f2",
+        "year": "2019"
+    },
+    "\u4e03\u5341\u5e74\u4ee3\u5c0f\u798f\u5305": {
+        "number": "444010",
+        "into": "\u798f\u8fd0\u5c0f\u9526\u9ca4\u7684\u4e03\u5341\u5e74\u4ee3",
+        "year": "2019"
+    },
+    "\u5b64\u72ec\u7684\u60c5\u6000": {
+        "number": "180483",
+        "into": "\u8715\u53d8\u4ee5\u540e\u8fd8\u5269\u4e0b\u4ec0\u4e48\uff1f\u58f3\u600e\u4e48\u529e\uff1f",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u4e4b\u7537\u914d\u4e0d\u505a\u8001\u5b9e\u4eba[\u7a7f\u4e66]": {
+        "number": "206182",
+        "into": "\u8001\u5b9e\u4eba\u4e5f\u6709\u6625\u5929\u2026\u2026",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u5927\u529b\u5973\u914d\u65e5\u5e38": {
+        "number": "269415",
+        "into": "\u5bf9\u6218\u5916\u6302\u5973\u4e3b",
+        "year": "2019"
+    },
+    "\u516d\u5341\u5e74\u4ee3\u597d\u547d\u5973\u914d": {
+        "number": "274676",
+        "into": "\u5728\u516d\u4e03\u5341\u5e74\u4ee3\u8fc7\u597d\u81ea\u5df1\u7684\u5c0f\u65e5\u5b50",
+        "year": "2019"
+    },
+    "\u91cd\u56de\u516d\u96f6\u8fc7\u65e5\u5b50": {
+        "number": "300543",
+        "into": "\u4fdd\u6301\u672c\u5fc3\u8fc7\u65e5\u5b50",
+        "year": "2019"
+    },
+    "\u6211\u5728\u4e03\u96f6\u5954\u5c0f\u5eb7": {
+        "number": "351379",
+        "into": "\u6495\u6781\u54c1\u5954\u5c0f\u5eb7",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u8f6f\u5a07\u5c0f\u751c\u59bb": {
+        "number": "350670",
+        "into": "\u6709\u6ecb\u6709\u5473\u7684\u79cd\u7530\u751f\u6d3b",
+        "year": "2019"
+    },
+    "\u4eca\u5929\u7684\u5c11\u5e05\u52a1\u6b63\u4e1a\u4e86\u561b\uff1f": {
+        "number": "263092",
+        "into": "\u6218\u4e71\u5e74\u4ee3\uff0c\u8ba9\u4eba\u4e0d\u6562\u7f6e\u4fe1\u7684\u7231\u60c5",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u5e74\u4ee3\u7f8e\u77e5\u9752": {
+        "number": "124010",
+        "into": "\u5973\u77e5\u9752\u91cd\u751f\u56de\u5230\u56db\u5341\u5e74\u524d",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u4e03\u5341\u5e74\u4ee3\u5a07\u5a07\u5a18": {
+        "number": "842952",
+        "into": "\u540e\u5a18\u7684\u5c0f\u65e5\u5e38",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u4e03\u96f6\u798f\u5b9d\u5c0f\u80fd\u624b": {
+        "number": "412473",
+        "into": "\u653b\u7565\u5927\u4f6c\u4e03\u5341\u4e8c\u5f0f",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u798f\u661f\u5c0f\u5ab3\u5987": {
+        "number": "176781",
+        "into": "\u8650\u59bb\u4e00\u65f6\u723d\uff0c\u8ffd\u59bb\u706b\u846c\u573a\uff01",
+        "year": "2019"
+    },
+    "\u7a7f\u8d8a\u4e03\u5341\u5e74\u4ee3\u5269\u5973\u5927\u7ffb\u8eab": {
+        "number": "210006",
+        "into": "\u4e11\u5973\u7ffb\u8eab\uff0c\u624b\u6495\u6781\u54c1\uff01",
+        "year": "2019"
+    },
+    "\u6211\u5728\u4e03\u96f6\u4fee\u58c1\u753b": {
+        "number": "350039",
+        "into": "\u201c\u98de\u5929\u201d\u4e00\u68a6\u5230\u4e03\u96f6",
+        "year": "2019"
+    },
+    "\u5979\u4ece\u672b\u4e16\u6765[50\u5e74\u4ee3]": {
+        "number": "555628",
+        "into": "\u8bba\u5987\u8054\u5230\u5e95\u8be5\u4e0d\u8be5\u89e3\u6551\u7537\u540c\u5fd7",
+        "year": "2019"
+    },
+    "\u7a7f\u8d8a\u5230\u4e03\u5341\u5e74\u4ee3\u505a\u5973\u914d\uff3b\u7a7a\u95f4\uff3d": {
+        "number": "213126",
+        "into": "\u4e2d\u533b\u7a7f\u5230\u4e03\u5341\u5e74\u4ee3\u505a\u77e5\u9752",
+        "year": "2019"
+    },
+    "\u516d\u96f6\u519c\u5bb6\u8001\u592a\u592a[\u7a7f\u4e66]": {
+        "number": "392712",
+        "into": "\u516d\u96f6\u638c\u5bb6\u8001\u592a\u592a",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u4e4b\u7ae5\u517b\u5ab3\u6709\u9526\u9ca4\u8fd0": {
+        "number": "334624",
+        "into": "\u76ae\u76ae\u867e\u5973\u4e3bx\u7981\u6b32\u8001\u5e72\u90e8",
+        "year": "2019"
+    },
+    "\u6000\u747e\u62b1\u745c": {
+        "number": "305479",
+        "into": "\u6c11\u56fd\u5927\u4f6c\u8131\u5355\u4e4b\u8def",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u571f\u8c6a\u7684\u5a07\u6c14\u5305\u5047\u95fa\u5973": {
+        "number": "182251",
+        "into": "\u5973\u4e3b\u5979\u6709\u4e5d\u767e\u4ebf\uff01\u8be5\u548b\u82b1\u5728\u7ebf\u7b49\u6025",
+        "year": "2019"
+    },
+    "\u4e03\u5341\u5e74\u4ee3\u5a07\u5ba0\u5973": {
+        "number": "390000",
+        "into": "\u4e03\u5341\u5e74\u4ee3\u5a07\u5ba0\u65e5\u5e38",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u7f8e\u53a8\u5c0f\u5a07\u5973": {
+        "number": "133619",
+        "into": "\u5c0f\u5a07\u5973\u5ba0\u4e0e\u88ab\u5ba0\u65e5\u5e38",
+        "year": "2019"
+    },
+    "\u4e03\u5341\u5e74\u4ee3\u798f\u6c14\u5305": {
+        "number": "533872",
+        "into": "\u798f\u6c14\u5305\u7684\u4e03\u5341\u5e74\u4ee3\u8212\u5fc3\u751f\u6d3b",
+        "year": "2019"
+    },
+    "\u60ca\u4e16\u795e\u533b\u5728\u516b\u96f6": {
+        "number": "213643",
+        "into": "\u795e\u533b\u4e4b\u672f\uff0c\u9707\u60ca\u5929\u4e0b\uff01",
+        "year": "2019"
+    },
+    "\u6211\u51fa\u751f\u5728\u4e94\u96f6\u5e74": {
+        "number": "147420",
+        "into": "\u6211\u5728\u4e94\u96f6\u5e74\u51fa\u751f",
+        "year": "2019"
+    },
+    "\u65e0\u7ec8\u662f\u4f60 \u5ff5\u65e0\u537f": {
+        "number": "121321",
+        "into": "\u519b\u9600\u4e0e\u620f\u5b50 \u751c",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u5973\u914d\u5a07\u53c8\u6002": {
+        "number": "483749",
+        "into": "\u8138\u86cb\u501f\u6211\u634f\u4e00\u4e0b\uff0c\u592a\u4ed6\u5988\u53ef\u7231\u4e86",
+        "year": "2019"
+    },
+    "\u7a7f\u8d8a\u4e03\u96f6\uff0c\u5c0f\u6002\u5305\u5979\u597d\u5403\u61d2\u505a\u53c8\u4f7f\u574f": {
+        "number": "131413",
+        "into": "\u62b1\u62b1\u5927\u817f\uff0c\u5f53\u5f53\u7c73\u866b",
+        "year": "2019"
+    },
+    "\u516d\u96f6\u571f\u8457\u5973\u4e3b\u751f\u6d3b\u5f55": {
+        "number": "251507",
+        "into": "\u7a7f\u6210\u4e00\u53ea\u6bcd\u725b\u7cbe\uff3b\u4e03\u96f6\uff3d\u6c42\u6536\u85cf",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u5927\u4f6c\u7684\u722c\u5899\u5a07\u59bb": {
+        "number": "208445",
+        "into": "\u6218\u6218\u5162\u5162\u5c0f\u53ef\u601c\u7ad9\u8d77\u6765\u4e86\uff01",
+        "year": "2019"
+    },
+    "\u65f6\u7a7a\u6253\u5de5\u59b9\uff08\u5feb\u7a7f\uff09": {
+        "number": "370187",
+        "into": "\u6253\u5de5\u59b9\u655b\u8d22\u8bb0\u5f55",
+        "year": "2019"
+    },
+    "\u6211\u5728\u4e03\u96f6\u5f53\u9526\u9ca4": {
+        "number": "370817",
+        "into": "\u4e03\u96f6\u5e74\u4ee3\u9526\u9ca4\u5e78\u798f\u4eba\u751f\uff01",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u4e5d\u96f6\u51e4\u51f0\u7537[\u7a7f\u4e66]": {
+        "number": "540988",
+        "into": "\u7a7f\u6210\u51e4\u51f0\u7537\u81f4\u5bcc\u6253\u8138\u5ba0\u59bb",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u516b\u96f6\u5c0f\u751c\u59bb": {
+        "number": "908114",
+        "into": "\u5728\u4e0d\u540c\u7684\u65f6\u7a7a\u603b\u80fd\u9047\u5230\u4f60\u3002",
+        "year": "2019"
+    },
+    "\u6211\u5728\u4e03\u96f6\u5e74\u4ee3\u5f53\u5c71\u795e": {
+        "number": "227918",
+        "into": "\u5c71\u795e\u4e0b\u51e1\u5403\u559d\u73a9\u4e50\u7684\u5e78\u798f\u65e5\u5b50",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u4fcf\u65f6\u5149": {
+        "number": "151463",
+        "into": "\u767d\u7a77\u7f8e\u7684\u5b66\u9738\u4eba\u751f\u3002",
+        "year": "2019"
+    },
+    "\u5e74\u4ee3\u7ea2\u5305\u7fa4": {
+        "number": "261664",
+        "into": "\u5e26\u7740\u7ea2\u5305\u7fa4\u7684\u4eba\u751f",
+        "year": "2019"
+    },
+    "\u4e03\u5341\u5e74\u4ee3\u597d\u5988\u5988[\u7a7f\u4e66]": {
+        "number": "213867",
+        "into": "\u6211\u662f\u4e3b\u89d2\u4eec\u7684\u5988",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u5973\u914d\u4e0d\u60f3\u7ed3\u5a5a": {
+        "number": "196364",
+        "into": "\u516b\u96f6\u5973\u53ea\u60f3\u8d5a\u94b1\u5b5d\u987a\u6bcd\u4eb2\u3002",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u592b\u59bb\u8e72": {
+        "number": "250472",
+        "into": "\u592b\u59bb\u53cc\u53cc\u628a\u9b42\u7a7f",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u5a07\u6c14\u5c0f\u5ab3\u5987": {
+        "number": "537377",
+        "into": "\u5a07\u6c14\u5305\u5927\u5c0f\u59d0\u548c\u8179\u9ed1\u77e5\u9752\u7684\u6545\u4e8b",
+        "year": "2019"
+    },
+    "\u516d\u5341\u5e74\u4ee3\u8003\u519b\u6821": {
+        "number": "539833",
+        "into": "\u6797\u7acb\u9192\u6765\u540e\u6210\u4e8610\u5c81\u7684\u738b\u7231\u56fd",
+        "year": "2019"
+    },
+    "\u91cd\u751f\u4e4b\u6211\u53eb\u738b\u62db\u5a23": {
+        "number": "196728",
+        "into": "\u5973\u6027\u80fd\u9876\u534a\u8fb9\u5929",
+        "year": "2019"
+    },
+    "[\u9690\u5f62\u5b88\u62a4\u8005\u540c\u4eba]\u9690\u5f62\u5b88\u62a4\u8005": {
+        "number": "228285",
+        "into": "\u8096\u9014\u5728\u6297\u6218\u4e2d\u7684\u6f5c\u4f0f\u4e0e\u7231\u6068\u60c5\u4ec7",
+        "year": "2019"
+    },
+    "\u91cd\u751f\u516b\u5341\u5e74\u4ee3\u672b\u53d1\u5bb6\u81f4\u5bcc": {
+        "number": "215641",
+        "into": "\u672b\u4e16\u5c11\u5973\u7a7f\u8d8a\u516b\u5341\u5e74\u4ee3\u672b\u53d1\u5bb6\u81f4\u5bcc",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u5e74\u4ee3\u7384\u5b66\u5927\u5e08": {
+        "number": "517103",
+        "into": "\u4e13\u680f\u300a\u4e03\u96f6\u751c\u871c\u871c\u300b\u6c42\u6536\u85cf",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u5ac1\u7ed9\u62c6\u4e8c\u4ee3": {
+        "number": "205172",
+        "into": "\u5ac1\u7ed9\u62c6\u8fc1\u6237\u540e\u7684\u5e78\u798f\u4eba\u751f",
+        "year": "2019"
+    },
+    "\u4e94\u96f6\u5c0f\u65f6\u5149": {
+        "number": "359375",
+        "into": "\u4e94\u96f6\u5e74\u4ee3\u4e00\u5bb6\u4eba\u7684\u6545\u4e8b",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u5e74\u8d85\u7ea7\u5b66\u9738": {
+        "number": "563329",
+        "into": "\u5e26\u4f60\u5b66\u4e60\u5e26\u4f60\u98de\uff01",
+        "year": "2019"
+    },
+    "\u6700\u5f3a\u63a2\u957f": {
+        "number": "192281",
+        "into": "\u4e71\u4e16\u5047\u592b\u59bb\u4fdd\u5bb6\u536b\u56fd",
+        "year": "2019"
+    },
+    "\u5f53\u7537\u4e3b\u9ed1\u5316\u540e\u6211\u88ab\u8feb\u6210\u4e86\u767d\u6708\u5149": {
+        "number": "146010",
+        "into": "\u5f53\u9ed1\u5316\u7537\u4e3b\u9047\u4e0a\u7a7f\u4e66\u5c0f\u59b9",
+        "year": "2019"
+    },
+    "\u516d\u96f6\u5f6a\u608d\u8def\u4eba\u7532": {
+        "number": "683425",
+        "into": "\u8def\u4eba\u7532\u53d8\u9738\u738b\u82b1",
+        "year": "2019"
+    },
+    "\u79cd\u7530\u53d1\u5bb6\u5728\u4e03\u96f6": {
+        "number": "251958",
+        "into": "\u79cd\u7530\u517b\u8001\uff0c\u53d1\u5bb6\u81f4\u5bcc\u3002",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u4e03\u96f6\u767d\u5bcc\u7f8e": {
+        "number": "1128432",
+        "into": "\u300a\u6ee1\u7ea7\u7eff\u8336\u7a7f\u6210\u5e74\u4ee3\u6587\u6781\u54c1\u300b",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u5e74\u6709\u70b9\u751c": {
+        "number": "183334",
+        "into": "\u82cf\u7834\u5929\u9645\u5a07\u82b1X\u767d\u624b\u8d77\u5bb6\u7cd9\u6c49",
+        "year": "2019"
+    },
+    "\u4e03\u5341\u5e74\u4ee3\u6d17\u767d\u53f2": {
+        "number": "221190",
+        "into": "\u548c\u7537\u795e\u4e00\u8d77\u7684\u90a3\u4e9b\u65e5\u5b50",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u4e4b\u7537\u4e3b\u7684\u70ae\u7070\u524d\u59bb": {
+        "number": "447593",
+        "into": "\u7a7f\u4e66\u5973\u70ae\u7070VS\u91cd\u751f\u7537\u4e3b",
+        "year": "2019"
+    },
+    "\u91cd\u56de\u4e03\u96f6\u5e74\u4ee3\u594b\u6597\u53f2": {
+        "number": "123132",
+        "into": "\u8001\u592a\u592a\u91cd\u751f70\u5e74\u4ee3\u8d70\u5411\u4eba\u751f\u5dc5\u5cf0",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u5e74\u4ee3\u5c0f\u4fcf\u5ab3[\u7a7f\u4e66]": {
+        "number": "610950",
+        "into": "\u53d1\u5bb6\u81f4\u5bcc\u64a9\u7537\u4e3b",
+        "year": "2019"
+    },
+    "\u6211\u5728\u5e74\u4ee3\u6587\u91cc\u5ac1\u53cd\u6d3e": {
+        "number": "212284",
+        "into": "\u4e56\uff0c\u7ed9\u6211\u751f\u4e2a\u5d3d\uff01",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u840c\u5b9d\u5c0f\u4ed9\u5973": {
+        "number": "110913",
+        "into": "\u6cbb\u6108\u5929\u4f7fX\u654f\u611f\u81ea\u5351\u75c5\u5a07\u5c11\u5e74",
+        "year": "2019"
+    },
+    "[\u91cd\u751f]\u4f60\u7adf\u7136\u4f4f\u6211\u5bb6\u9694\u58c1": {
+        "number": "281682",
+        "into": "\u4e24\u8f88\u5b50\u90fd\u683d\u4e00\u4e2a\u4eba\u624b\u91cc",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u5e74\u4ee3\u6587\u4e2d\u7684\u60b2\u60e8\u5973\u914d": {
+        "number": "186376",
+        "into": "\u7a7f\u4e66\u5973\u914d\uff0c\u5979\u9006\u88ad\u4e86",
+        "year": "2019"
+    },
+    "\u5e26\u7740\u5546\u573a\u91cd\u6d3b\u4e00\u4e16": {
+        "number": "254635",
+        "into": "\u7f8e\u8272\u4e0e\u6781\u54c1\u5a46\u5bb6\u96be\u4ee5\u53d6\u820d",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u5973\u914d\u7684\u9006\u88ad\u4eba\u751f[\u7a7f\u4e66]": {
+        "number": "177093",
+        "into": "\u6211\uff0c\u597d\u770b\uff0c\u4e0d\u670d\u618b\u7740\uff01",
+        "year": "2019"
+    },
+    "\u91cd\u542f1991": {
+        "number": "671147",
+        "into": "\u8d5a\u94b1\u517b\u5a03\u517b\u5ab3\u5987",
+        "year": "2019"
+    },
+    "\u91cd\u751f\u4e03\u96f6\u70ae\u7070\u59bb": {
+        "number": "367292",
+        "into": "\u70ae\u7070\u9006\u88ad\u4eba\u751f\u8d62\u5bb6",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u6781\u54c1\u4ed6\u95fa\u5973[\u4e03\u96f6]": {
+        "number": "607970",
+        "into": "\u9664\u6211\u4e4b\u5916\uff0c\u5168\u5bb6\u6781\u54c1",
+        "year": "2019"
+    },
+    "\u6c5f\u57ce\u516d\u6708\u843d\u6885\u82b1": {
+        "number": "444015",
+        "into": "\u524d\u4e8b\u4e0d\u5fd8\uff0c\u540e\u4e8b\u4e4b\u5e08\u3002",
+        "year": "2019"
+    },
+    "\u5531\u54cd\u77e5\u9752\u540e\u7684\u5e74\u534e": {
+        "number": "314987",
+        "into": "\u4f60\u7684\u6211\u7684\u6211\u4eec\u7684",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u7537\u4e3b\u4ed6\u5ac2\u5b50": {
+        "number": "702830",
+        "into": "\u7537\u4e3b\u770b\u7740\u4ed6\u5ac2\u5b50\u6574\u5929\u79c0\u6069\u7231\uff01",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u70ae\u7070\u5973\u914d\u7684\u9526\u9ca4\u65e5\u5e38[\u7a7f\u4e66]": {
+        "number": "702300",
+        "into": "\u5973\u4e3b\u4e0d\u5149\u6709\u9526\u9ca4\u8fd0\u8fd8\u5934\u8111\u806a\u660e\uff01",
+        "year": "2019"
+    },
+    "\u516d\u96f6\u798f\u8fd0\u5c0f\u5a07\u5973": {
+        "number": "697248",
+        "into": "\u6ca1\u6709\u4ec0\u4e48\u662f\u597d\u8fd0\u89e3\u51b3\u4e0d\u4e86\u7684\u4e8b",
+        "year": "2019"
+    },
+    "\u4e03\u5341\u5e74\u4ee3\u4e4b\u9648\u5c0f\u96e8\u7684\u594b\u6597": {
+        "number": "406831",
+        "into": "\u8fd9\u662f\u4e00\u4e2a\u517b\u5bb6,\u8d5a\u94b1,\u594b\u6597\u7684\u6545\u4e8b",
+        "year": "2019"
+    },
+    "\u4ed9\u95e8\u5a07\u5973\u5728\u4e03\u96f6[\u7a7f\u4e66]": {
+        "number": "429290",
+        "into": "\u5927\u4f6c\u4ed6\u5c31\u662f\u4e0d\u79bb\u5a5a",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u66b4\u53d1\u6237\u7684\u524d\u59bb[\u7a7f\u4e66]": {
+        "number": "497056",
+        "into": "\u9ec4\u8138\u5a46\u9006\u88ad\u6210\u80a4\u767d\u8c8c\u7f8e\u5927\u957f\u817f\u2026\u2026",
+        "year": "2019"
+    },
+    "\u5b66\u5f1f\u603b\u662f...\u5f88\u505a\u4f5c": {
+        "number": "100000",
+        "into": "\u914d\u6211\uff1f\u5c31\u4f60\u8fd8\u884c",
+        "year": "2019"
+    },
+    "\u5e74\u4ee3\u6587\u91cc\u505a\u5973\u914d": {
+        "number": "350275",
+        "into": "\u5973\u914d\u7684\u4e03\u96f6\u751f\u6d3b",
+        "year": "2019"
+    },
+    "\u91cd\u751f\u6210\u9738\u603b\u7684\u5c0f\u751c\u6912": {
+        "number": "295689",
+        "into": "\u5014\u5f3a\u6e05\u51b7\u53d7\u88ab\u63b0\u6210\u5c0f\u751c\u6912",
+        "year": "2019"
+    },
+    "\u4e03\u5341\u5e74\u4ee3\u77e5\u9752\u5973\u914d": {
+        "number": "327625",
+        "into": "\u767d\u5ae9\u5ae9\u5c0f\u59d1\u5a18x\u8179\u9ed1\u786c\u6c49\u7537\u4e3b",
+        "year": "2019"
+    },
+    "\u4e94\u96f6\u4e4b\u7a7f\u4e66\u540e\u7231\u4e0a\u4e86\u7537\u914d": {
+        "number": "455001",
+        "into": "\u653e\u5f00\u7537\u914d\u8ba9\u6211\u6765",
+        "year": "2019"
+    },
+    "\u4e94\u96f6\u798f\u4e34\u95e8": {
+        "number": "111991",
+        "into": "\u4e24\u4e2a\u5047\u513f\u7ae5\u7684\u751f\u5b58\u9a9a\u64cd\u4f5c",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u70ae\u7070\u5976\u7238": {
+        "number": "643464",
+        "into": "\u5f53\u771f\u5929\u5e08\u7a7f\u6210\u5047\u795e\u68cd",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u4e4b\u5168\u5bb6\u5927\u53cd\u6d3e[\u7a7f\u4e66]": {
+        "number": "231293",
+        "into": "\u5be1\u5987\u594b\u6597\u53f2",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u4e4b\u6211\u770b\u8138\u7684": {
+        "number": "200074",
+        "into": "\u6211\u5728\u516b\u96f6\u753b\u4e86\u4e2a\u68f5\u8349\uff01\uff01\uff01",
+        "year": "2019"
+    },
+    "\u91cd\u751f\u4e94\u96f6\u8ba8\u751f\u6d3b": {
+        "number": "898034",
+        "into": "\u517b\u5f1f\u5f1f\u9493\u5fe0\u72ac\u5403\u9971\u9971\u7684\u5e78\u798f\u4eba\u751f",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u5973\u4e3b\u7684\u77ee\u5c0f\u9ed1\u59b9\u59b9": {
+        "number": "397882",
+        "into": "\u56de\u5230\u4e5d\u96f6\uff0c\u53ea\u60f3\u79cd\u7530",
+        "year": "2019"
+    },
+    "\u516d\u96f6\u5e74\u4ee3\u597d\u5988\u5988": {
+        "number": "1006227",
+        "into": "\u91cd\u751f\u517b\u5a03\u65e5\u5e38",
+        "year": "2019"
+    },
+    "\u5f2f\u66f2\u7684\u6cb3\u6d41": {
+        "number": "425070",
+        "into": "\u53ea\u6709\u8d70\u8fc7\u6765\uff0c\u624d\u77e5\u9053\u811a\u4e0b\u7684\u8def\u3002",
+        "year": "2019"
+    },
+    "\u9760\u7956\u4f20\u624b\u827a\u6d3b\u5728\u4e03\u5341\u5e74\u4ee3": {
+        "number": "290132",
+        "into": "\u9760\u7956\u4f20\u624b\u827a\u6d3b\u5728\u4e03\u5341\u5e74\u4ee3",
+        "year": "2019"
+    },
+    "\u516b\u5341\u5e74\u4ee3\u4e4b\u5a07\u82b1[\u7a7f\u4e66]": {
+        "number": "941789",
+        "into": "\u6697\u604b\u5175\u54e5\u54e5\u7684\u574f\u5973\u914d\u4e5f\u6709\u6625\u5929\u3002",
+        "year": "2019"
+    },
+    "\u4e94\u5341\u5e74\u4ee3\u4e4b\u4e03\u5f69\u6210\u957f\u8bb0": {
+        "number": "501957",
+        "into": "\u672b\u4e16\u5973\u548c\u5927\u529b\u7537\u78b0\u649e\u51fa\u706b\u82b1",
+        "year": "2019"
+    },
+    "\u6d77\u9633\u9504\u5978\u6b66\u5de5\u961f": {
+        "number": "181092",
+        "into": "\u7231\u5728\u6218\u706b\u4e2d\u6012\u653e",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u91cd\u751f\u7537\u4e3b\u6587\u7b2c\u4e00\u5973\u4e3b": {
+        "number": "138200",
+        "into": "\u8e39\u4e86\u539f\u7537\u4e3b\uff0c\u53d1\u5bb6\u81f4\u5bcc\u53bb",
+        "year": "2019"
+    },
+    "\u6211\u5728\u4e03\u96f6\u5f53\u7c73\u866b": {
+        "number": "201395",
+        "into": "\u6211\u53ea\u60f3\u505a\u7c73\u866b\u5374\u603b\u88ab\u903c\u7740\u52aa\u529b",
+        "year": "2019"
+    },
+    "\u4e13\u5c5e\u5e74\u4ee3[\u5feb\u7a7f]": {
+        "number": "736110",
+        "into": "\u6697\u604b\u7684\u5473\u9053",
+        "year": "2019"
+    },
+    "\u751f\u6d3b\u5728\u4e03\u5341\u5e74\u4ee3": {
+        "number": "146169",
+        "into": "\u4e03\u5341\u5e74\u4ee3\u597d\u751f\u6d3b\u3002",
+        "year": "2019"
+    },
+    "\u6211\u88ab\u7cfb\u7edf\u5751\u5728\u4e86\u516d\u96f6": {
+        "number": "990878",
+        "into": "\u5728\u516d\u96f6\u5e74\u4ee3\u505a\u597d\u4e8b",
+        "year": "2019"
+    },
+    "\u5e74\u4ee3\u6587\u91cc\u968f\u5a18\u6539\u5ac1\u517b\u5a03": {
+        "number": "387763",
+        "into": "\u627e\u4e2a\u9760\u5c71\uff0c\u8fc7\u597d\u65e5\u5b50",
+        "year": "2019"
+    },
+    "\u519b\u5a5a\u6587\u91cc\u559c\u5f53\u5988": {
+        "number": "1204379",
+        "into": "\u517b\u5a03\u6700\u5e78\u798f\uff0c\u519b\u5ac2\u6700\u5149\u8363",
+        "year": "2019"
+    },
+    "\u516d\u5341\u5e74\u4ee3\u4fee\u4fee\u4ed9": {
+        "number": "438025",
+        "into": "\u516d\u5341\u5e74\u4ee3\u4fee\u4fee\u4ed9",
+        "year": "2019"
+    },
+    "\u4e00\u5ff5\u4e0d\u6e1d\u6c38\u4e16\u4e0d\u5f03": {
+        "number": "150804",
+        "into": "\u7ec8\u5176\u4e00\u751f\u4ed6\u90fd\u65e0\u6cd5\u638c\u63e1\u81ea\u5df1\u7684\u4eba\u751f",
+        "year": "2019"
+    },
+    "\u6cbb\u6108\u504f\u6267\u7684\u4ed6[\u516b\u96f6]": {
+        "number": "677232",
+        "into": "\u4ed6\u53c8\u51f6\u53c8\u91ce\uff0c\u53ea\u542c\u6211\u7684\u8bdd",
+        "year": "2019"
+    },
+    "\u751f\u6d3b\u5728\u4e03\u96f6[\u7a7f\u4e66]": {
+        "number": "193918",
+        "into": "\u7537\u4e3b\uff1a\u201c\u52b3\u8d44\u7a77\uff1f\u201d",
+        "year": "2019"
+    },
+    "\u7a7f\u8fdb404\u7075\u5f02\u6587\u5f53\u4e59\u65b9": {
+        "number": "265106",
+        "into": "\u5927\u9b54\u738b&amp;\u5c0f\u523a\u732c\uff0c\u7075\u5f02\u573a\u76f8\u7231\u76f8\u6740",
+        "year": "2019"
+    },
+    "\u5728\u5e74\u4ee3\u6587\u91cc\u5f53\u7b26\u5e08[\u5e74\u4ee3]": {
+        "number": "726841",
+        "into": "\u5e74\u4ee3\u6587\u91cc\u7684\u7b26\u7bc6\u751f\u6d3b\u65e5\u5e38",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u6781\u54c1\u540e\u6211\u4f5c\u5929\u4f5c\u5730": {
+        "number": "490893",
+        "into": "\u6781\u54c1\u5c31\u8be5\u5e72\u4e9b\u6781\u54c1\u8be5\u5e72\u7684\u4e8b",
+        "year": "2019"
+    },
+    "\u7075\u7389\u5e74\u4ee3\u8bb0\u4e8b": {
+        "number": "190134",
+        "into": "\u7075\u7389\u751f\u6d3b\u8bb0\u4e8b",
+        "year": "2019"
+    },
+    "\u798f\u5b9d\u7684\u4e03\u5341\u5e74\u4ee3": {
+        "number": "908118",
+        "into": "\u5446\u840c\u9526\u9ca4\u5c0f\u798f\u661f\u751c\u6ecb\u6ecb\u7684\u8212\u5766\u65e5\u5b50",
+        "year": "2019"
+    },
+    "\u6211\u5728\u4e03\u5341\u5e74\u4ee3\u5403\u74dc\u7684\u65e5\u5b50": {
+        "number": "429574",
+        "into": "\u5e74\u5e74\u5927\u620f\uff0c\u5b89\u5fc3\u5403\u74dc\uff0c\u4e0d\u6094\u518d\u751f\u3002",
+        "year": "2019"
+    },
+    "\u6211\u5c31\u662f\u91d1\u624b\u6307[\u5feb\u7a7f]": {
+        "number": "305329",
+        "into": "\u53ef\u6211\u7684\u5929\u547d\u4e4b\u5b50\u53ea\u6709\u4f60\uff01",
+        "year": "2019"
+    },
+    "\u504f\u6267\u5927\u4f6c\u7684\u5fc3\u5934\u5ba0": {
+        "number": "504282",
+        "into": "\u5927\u4f6c\u5176\u5b9e\u5f88\u6e29\u67d4---\u4fe1\u4f60\u4e2a\u9b3c\uff01",
+        "year": "2019"
+    },
+    "\u5b89\u5b81": {
+        "number": "316397",
+        "into": "\u6293\u4f4f\u4f60\u7684\u624b\u5c31\u4e0d\u4f1a\u518d\u653e\u5f00\u3002",
+        "year": "2019"
+    },
+    "\u4e5d\u5341\u5e74\u4ee3\u7687\u540e\u517b\u513f\u65e5\u5e38": {
+        "number": "246288",
+        "into": "\u7687\u540e\u7a7f\u8d8a\u5566\uff0c\u8fd8\u6709\u4e86\u4e09\u4e2a\u5a03~",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u4e4b\u5be1\u5987\u517b\u5a03": {
+        "number": "917499",
+        "into": "\u4e03\u5341\u5e74\u4ee3\u5be1\u5987\u517b\u5a03\u65e5\u5e38",
+        "year": "2019"
+    },
+    "\u7a7f\u8d8a\u516d\u96f6\u6709\u7a7a\u95f4": {
+        "number": "787878",
+        "into": "\u5929\u751f\u9526\u9ca4\u91d1\u624b\u6307\u7c97\u58ee",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u4e4b\u6211\u9760\u7f8e\u98df\u9006\u88ad": {
+        "number": "494401",
+        "into": "\u7f8e\u98df\u79f0\u9738\u4e16\u754c",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u5a07\u6c14\u7f8e\u4eba[\u7a7f\u4e66]": {
+        "number": "1027664",
+        "into": "\u4eba\u95f4\u5bcc\u8d35\u82b1x\u7cd9\u6c49\u5b50\u730e\u6237",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u5e74\u4ee3\u7684\u8d25\u5bb6\u5b50": {
+        "number": "243952",
+        "into": "\u53d1\u5bb6\u81f4\u5bcc\u5b9e\u529b\u5ba0\u59bb\u65e5\u5e38",
+        "year": "2019"
+    },
+    "\u7a7f\u5230\u5e74\u4ee3\u6587\u5f00\u59cb\u524d": {
+        "number": "149601",
+        "into": "\u7a7f\u8d8a\u540e\u52aa\u529b\u751f\u6d3b",
+        "year": "2019"
+    },
+    "\u4e03\u5341\u5e74\u4ee3\u5c0f\u798f\u59bb": {
+        "number": "101211",
+        "into": "\u5c0f\u5ab3\u5987\u53c8\u50bb\u53c8\u751c",
+        "year": "2019"
+    },
+    "\u91cd\u56de80\u5e74\u4ee3\u6697\u604b\u7684\u8001\u5a46\u8ffd\u6211\u4e86": {
+        "number": "212743",
+        "into": "\u4eca\u5929\u53c8\u662f\u5438\u5f15\u8001\u516c\u7684\u4e00\u5929",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u5e74\u4ee3\u5e78\u798f\u65f6\u5149": {
+        "number": "143209",
+        "into": "\u505a\u4e00\u4e2a\u201c\u4f18\u96c5\u201d\u7684\u767d\u5bcc\u7f8e",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u5e74\u4ee3\u5927\u4f6c\u65e5\u5e38": {
+        "number": "141188",
+        "into": "\u5168\u5bb6\u90fd\u662f\u5927\u4f6c\u9664\u4e86\u6211",
+        "year": "2019"
+    },
+    "\u5e26\u7740\u7a7a\u95f4\u56de\u523070\u5e74": {
+        "number": "238366",
+        "into": "\u4e00\u4e2a\u5e73\u51e1\u5973\u751f\u56de\u5230\u4e03\u5341\u5e74\u4ee3",
+        "year": "2019"
+    },
+    "\u628a\u65f6\u95f4\u5241\u4e86\u5241\u4e86\u5207\u4e86\u5427": {
+        "number": "250497",
+        "into": "\u9047\u89c1\u81ea\u5df1\uff0c\u4e0d\u518d\u5b64\u72ec",
+        "year": "2019"
+    },
+    "21\u4e16\u7eaa\u7968\u8bc1\u65f6\u4ee3": {
+        "number": "227076",
+        "into": "\u5728\u7a7a\u95f4\u8f85\u52a9\u4e0b\u7684\u5bb6\u957f\u91cc\u77ed",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u5e74\u4ee3\u6587\u7684\u6781\u54c1\u70ae\u7070": {
+        "number": "241355",
+        "into": "\u77e5\u8bc6\u6539\u53d8\u547d\u8fd0",
+        "year": "2019"
+    },
+    "\u4eba\u53c2\u7cbe\u7684\u516d\u96f6\u5e74\u4ee3\u751f\u6d3b": {
+        "number": "142540",
+        "into": "\u9152\u548c\u4eba\u53c2\u7cbe\u7684\u65e5\u5e38",
+        "year": "2019"
+    },
+    "\u5728\u5e74\u4ee3\u6587\u91cc\u5f53\u5973\u914d[\u5feb\u7a7f]": {
+        "number": "1113272",
+        "into": "\u6211\u81ea\u82ac\u82b3\u6709\u6625\u5929",
+        "year": "2019"
+    },
+    "\u91cd\u56de\u4e03\u96f6\u517b\u5927\u4f6c": {
+        "number": "352149",
+        "into": "\u6211\u9760\u5356\u65e9\u70b9\u5f81\u670d\u5927\u4f6c\uff01",
+        "year": "2019"
+    },
+    "\u516d\u5341\u5e74\u4ee3\u5916\u5356\u7cfb\u7edf": {
+        "number": "276461",
+        "into": "\u516d\u96f6\u751f\u6d3b\u7f8e\u6ecb\u6ecb",
+        "year": "2019"
+    },
+    "\u9c9b\u4eba\u91cd\u751f\u505a\u6e14\u5973": {
+        "number": "357400",
+        "into": "\u6211\u4e0d\u60f3\u9006\u5929\uff0c\u53ea\u60f3\u6709\u4eba\u4e00\u76f4\u966a\u6211",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u4e03\u5341\u5e74\u4ee3\u5a07\u5a07\u5ab3": {
+        "number": "640173",
+        "into": "\u5ba0\u59bb\u65e5\u5e38",
+        "year": "2019"
+    },
+    "\u5a07\u7f8e\u4eba\u5728\u4e03\u96f6[\u91cd\u751f]": {
+        "number": "199002",
+        "into": "\u571f\u9738\u738b\u8001\u516c\u592a\u7f9e\u6da9~",
+        "year": "2019"
+    },
+    "\u540e\u5988\u751f\u5b58\u653b\u7565[\u7cfb\u7edf]": {
+        "number": "294771",
+        "into": "\u6253\u9020\u56fd\u6c11\u597d\u540e\u5988",
+        "year": "2019"
+    },
+    "\u4ece\u4fee\u58eb\u5230\u5be1\u5987[\u4e03\u5341\u5e74\u4ee3]": {
+        "number": "853601",
+        "into": "\u4fee\u58eb\u5be1\u5987\u4e03\u5341\u5e74\u4ee3\u517b\u5bb6\u65e5\u5e38",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u5e74\u4ee3\u7384\u5b66\u5927\u4f6c[\u7a7f\u4e66]": {
+        "number": "407809",
+        "into": "\u7384\u95e8\u5973\u638c\u6559x\u7eaf\u60c5\u7f8e\u5c11\u5e74",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u4e03\u96f6\u5973\u77e5\u9752[\u7a7f\u4e66]": {
+        "number": "402139",
+        "into": "\u4fdd\u6301\u672c\u5fc3\u8fc7\u65e5\u5b50",
+        "year": "2019"
+    },
+    "\u53eb\u4e00\u58f0\u7238\u7238": {
+        "number": "176907",
+        "into": "\u6211\u53ea\u60f3\u53eb\u4f60\u4e00\u58f0\u7238\u7238",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u4e4bBOSS\u504f\u8981\u5ba0\u6211": {
+        "number": "210548",
+        "into": "\u5927\u4f6c\u6bcf\u5929\u90fd\u60f3\u6536\u670d\u6211",
+        "year": "2019"
+    },
+    "\u7231\u4f60\u8d25\u5bb6\u8bb0\u679c\u679c\u7bc7": {
+        "number": "166170",
+        "into": "\u6709\u4e2a\u604b\u7231\u590f\u679c\u4e0d\u5f97\u4e0d\u8c08",
+        "year": "2019"
+    },
+    "\u9526\u9ca4\u4f53\u8d28\u5c31\u662f\u6211": {
+        "number": "298702",
+        "into": "\u9526\u9ca4\u4f53\u8d28\u5c0f\u7f8e\u5973\u7684\u957f\u6210\u6545\u4e8b\uff01",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u4e4b\u5973\u914d\u6709\u7a7a\u95f4": {
+        "number": "309601",
+        "into": "\u5e26\u7740\u7a7a\u95f4\u53d1\u5bb6\u81f4\u5bcc",
+        "year": "2019"
+    },
+    "\u5e26\u7740\u8d85\u5e02\u56de\u516b\u96f6": {
+        "number": "112134",
+        "into": "\u91cd\u751f\u516b\u96f6\u597d\u65e5\u5b50",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u4e4b\u5a07\u5c0f\u59d0": {
+        "number": "231009",
+        "into": "\u5a07\u5c0f\u59d0\u7a7f\u4e03\u96f6",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u5973\u914d\u7684\u4f5b\u7cfb\u7f8e\u98df\u4e4b\u8def[\u7a7f\u4e66]": {
+        "number": "309536",
+        "into": "\u5973\u914d\u81ea\u8bf4\u81ea\u8bdd\u7684\u6362\u4e86\u5267\u672c",
+        "year": "2019"
+    },
+    "\u4e03\u5341\u5e74\u4ee3\u7a7f\u4e8c\u4ee3": {
+        "number": "1010048",
+        "into": "\u62fc\u7239\u62fc\u5a18\u7684\u517b\u5a03\u6587",
+        "year": "2019"
+    },
+    "\u5411\u5f80\u7684\u751f\u6d3b[\u4e03\u96f6]": {
+        "number": "1311169",
+        "into": "\u56de\u5230\u4e03\u96f6\u5f25\u8865\u9057\u61be\u8fc7\u4e0a\u5411\u5f80\u7684\u751f\u6d3b",
+        "year": "2019"
+    },
+    "\u5be1\u5987NPC\u5728\u516d\u96f6": {
+        "number": "500820",
+        "into": "\u5168\u80fd\u751f\u6d3b\u804c\u4e1aNPC\u5728\u516d\u96f6\u517b\u5a03",
+        "year": "2019"
+    },
+    "\u5feb\u7a7f\u4e4b\u73a9\u8f6c\u516d\u96f6\u4e03\u96f6": {
+        "number": "352489",
+        "into": "\u6211\u4e0d\u4f1a\u6495\u903c\uff0c\u4f46\u662f\u4f1a\u6253\u8138\u554a",
+        "year": "2019"
+    },
+    "\u4e5d\u96f6\u4e4b\u7389\u8351\u53a8\u795e": {
+        "number": "695595",
+        "into": "\u67d4\u67d4\u5f31\u5f31\u9648\u767d\u5fae\uff0c\u4efb\u541b\u91c7\u64b7\u6c88\u6e05\u5ca9",
+        "year": "2019"
+    },
+    "\u516d\u96f6\u91d1\u5927\u817f": {
+        "number": "229623",
+        "into": "\u4eba\u5f62\u81ea\u8d70\u5916\u6302\u4e86\u89e3\u4e00\u4e0b^^",
+        "year": "2019"
+    },
+    "\u5b9d\u513f\u7684\u516d\u96f6\u5e74\u4ee3": {
+        "number": "303244",
+        "into": "\u516d\u96f6\u5e74\u4ee3\u4e61\u4e0b\u4e00\u5bb6\u4eba\u65e5\u5e38",
+        "year": "2019"
+    },
+    "\u4e03\u5341\u5e74\u4ee3\u5ac1\u53cd\u6d3e": {
+        "number": "176507",
+        "into": "\u7a7f\u8d8a\u56de\u6765\u540e\uff0c\u6211\u5ac1\u7ed9\u4e86\u65e9\u6b7b\u5927\u53cd\u6d3e",
+        "year": "2019"
+    },
+    "\u795e\u5a461940": {
+        "number": "334393",
+        "into": "\u608d\u59bb\u51fa\u6ca1\uff0c\u5c0f\u5fc3\u5c0f\u5fc3",
+        "year": "2019"
+    },
+    "\u98ce\u96e8\u5341\u56db\u5e74": {
+        "number": "359974",
+        "into": "\u9752\u5e74\u7537\u5b50\u7ea0\u7ed3\u7684\u5927\u5b66\u6821\u56ed\u53f2",
+        "year": "2019"
+    },
+    "\u91cd\u751f\u4e03\u96f6\u6d6e\u751f\u82e5\u68a6": {
+        "number": "191798",
+        "into": "\u91cd\u751f\u7684\u5468\u99a5\u5982\u4f55\u5b9e\u73b0\u68a6\u60f3\u6536\u83b7\u7231\u60c5",
+        "year": "2019"
+    },
+    "\u5e74\u4ee3\u6587\u91cc\u5f53\u7537\u795e[\u5feb\u7a7f]": {
+        "number": "381672",
+        "into": "\u53cd\u6d3e\u7537\u914d\u9006\u88ad\u653b\u7565\u2026\u2026",
+        "year": "2019"
+    },
+    "\u6211\u731c\u4f60\u4e5f\u91cd\u751f\u4e86[\u4e03\u96f6]": {
+        "number": "517749",
+        "into": "\u592b\u59bb\u53cc\u53cc\u91cd\u751f",
+        "year": "2019"
+    },
+    "\u6c11\u56fd\u65e7\u5f71\u4e4b\u9648\u4e39\u7684\u611a\u8822": {
+        "number": "202921",
+        "into": "\u5269\u5973\u2260\u5996\u9b54\u9b3c\u602a\uff0c\u65e0\u9700\u53e6\u773c\u76f8\u5f85~",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u5bcc\u841d\u8389[\u7a7f\u4e66]": {
+        "number": "336176",
+        "into": "\u5979\u4e0d\u4ec5\u60f3\u6293\u6211\u7684\u80c3\uff0c\u8fd8\u60f3\u8981\u6211\u7684\u4eba",
+        "year": "2019"
+    },
+    "\u4e5d\u5341\u5e74\u4ee3\u6c14\u8fd0\u5927\u4f6c[\u7a7f\u4e66]": {
+        "number": "376854",
+        "into": "\u6211\u4e3b\u6c14\u8fd0\uff0c\u9547\u538b\u4e00\u5207\u9526\u9ca4",
+        "year": "2019"
+    },
+    "\u4e5d\u5341\u5e74\u4ee3\u7384\u5b66\u5927\u5e08": {
+        "number": "200610",
+        "into": "\u7384\u95e8\u5927\u4f6c\u7684\u60a0\u95f2\u4eba\u751f",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u5973\u914d\u53d8\u7f8e\u65e5\u5e38[\u7a7f\u4e66]": {
+        "number": "132228",
+        "into": "\u6e29\u99a8\u5e74\u4ee3\u5c0f\u751c\u6587",
+        "year": "2019"
+    },
+    "\u5f00\u5728\u4e03\u5341\u5e74\u4ee3\u7684\u6742\u8d27\u94fa": {
+        "number": "581075",
+        "into": "\u4e00\u5bb6\u8fde\u901a\u7740\u8fc7\u53bb\u548c\u672a\u6765\u7684\u6742\u8d27\u94fa\u3002",
+        "year": "2019"
+    },
+    "\u4e94\u5341\u5e74\u4ee3\u4e4b\u5973\u523a\u5ba2\u6765\u4e86": {
+        "number": "324651",
+        "into": "\u53e4\u4ee3\u5973\u523a\u5ba2\u6df7\u5e74\u4ee3\u6587",
+        "year": "2019"
+    },
+    "\u7a7f*******\u59bb": {
+        "number": "122736",
+        "into": "\u516b\u5341\u5e74\u4ee3\u9738\u603b\u82b1\u5f0f\u5ba0\u59bb",
+        "year": "2019"
+    },
+    "\u7a7f\u4e66\u540e\u6211\u53ea\u60f3\u4f4e\u8c03[\u516b\u96f6]": {
+        "number": "384364",
+        "into": "\u6211\u60f3\u8981\u4f4e\u8c03\u53ef\u662f\u8eab\u8fb9\u7684\u4eba\u90fd\u4e0d\u5141\u8bb8",
+        "year": "2019"
+    },
+    "\u516d\u4e2a\u59d0\u59d0\u90fd\u5ba0\u6211[\u516d\u96f6]": {
+        "number": "675994",
+        "into": "\u5728\u5e74\u4ee3\u6587\u4e2d\u5f53\u56e2\u5ba0\u3002",
+        "year": "2019"
+    },
+    "\u6c11\u56fd\u65e7\u5f71\uff1a\u711a\u57ce\u96ea": {
+        "number": "274393",
+        "into": "\u5173\u5c71\u9b42\u68a6\u957f",
+        "year": "2019"
+    },
+    "\u4faf\u95e8\u95fa\u79c0\u7a7f\u4e03\u96f6": {
+        "number": "683308",
+        "into": "\u4faf\u95e8\u95fa\u79c0\u7a7f\u8d8a\u4e03\u5341\u5e74\u4ee3\u5c0f\u961f\u957f\u5bb6",
+        "year": "2019"
+    },
+    "\u70ae\u7070\u5728\u5e74\u4ee3\u6587\u91cc\u66b4\u5bcc": {
+        "number": "171542",
+        "into": "\u4e03\u5341\u5e74\u4ee3\u81f4\u5bcc\u517b\u5d3d\u4e24\u4e0d\u8bef",
+        "year": "2019"
+    },
+    "\u91cd\u751f\u516d\u96f6\u4e4b\u7a7f\u4e66\u519b\u5ac2\u5fc3\u4e0d\u614c": {
+        "number": "181908",
+        "into": "\u7a7f\u4e66\u5973\u4e0e\u91cd\u751f\u5175\u54e5\u54e5\u7684\u751c\u5ba0\u65e5\u5e38",
+        "year": "2019"
+    },
+    "\u5b66\u9738\u6559\u5b66\u6e23\uff1f": {
+        "number": "157518",
+        "into": "\u590f\u94ed\u5728\u4e03\u5341\u5e74\u4ee3\u7684\u594b\u6597\u751f\u6d3b",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u4e4b\u8650\u4f60\u5168\u5bb6": {
+        "number": "169858",
+        "into": "\u5ba0\u592b\u662f\u5979\u4eba\u751f\u7ec8\u6781\u76ee\u6807",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u5e74\u4ee3\u5c0f\u65e5\u5b50": {
+        "number": "253367",
+        "into": "\u5373\u4fbf\u662f\u914d\u89d2\uff0c\u4e5f\u8981\u52aa\u529b\u53d8\u6210\u4e3b\u89d2",
+        "year": "2019"
+    },
+    "\u6211\u8981\u53d1\u5bb6\u81f4\u5bcc[\u91cd\u751f]": {
+        "number": "591748",
+        "into": "\u91cd\u751f\u4e5d\u96f6\u53d1\u5bb6\u81f4\u5bcc\u5305\u517b\u5c0f\u72fc\u72d7",
+        "year": "2019"
+    },
+    "\u7a7f\u4e66\u540e\u6211\u9006\u88ad\u4e86\uff3b\u4e03\u96f6\uff3d": {
+        "number": "207536",
+        "into": "\u6027\u611f\u970d\u54e5\uff0c\u5728\u7ebf\u5012\u5356",
+        "year": "2019"
+    },
+    "\u8fdb\u51fb\u7684\u6751\u82b1[\u516d\u96f6]": {
+        "number": "657662",
+        "into": "\u91cd\u751f\u6751\u82b1PK\u7a7f\u8d8a\u5973\u4e3b",
+        "year": "2019"
+    },
+    "\u4e5d\u96f6\u4e4b\u53cd\u6d3e\u7684\u5c0f\u53ef\u4eba\u513f": {
+        "number": "140227",
+        "into": "\u4f60\u662f\u6211\u7684\u5c0f\u53ef\u4eba",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u5927\u4f6c\u7684\u631a\u7231[\u4e03\u96f6]": {
+        "number": "214853",
+        "into": "\u6b63\u597d\u6211\u4e5f\u5f88\u7231\u4ed6",
+        "year": "2019"
+    },
+    "\u7a7f\u5230\u516b\u96f6\u620f\u5927\u9cc4[\u7a7f\u4e66]": {
+        "number": "255017",
+        "into": "\u7a7f\u8fdb\u5927\u4f6c\u4f20\u8bb0\uff0c\u6539\u5199\u5927\u4f6c\u4eba\u751f\uff01",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u4e03\u96f6\u798f\u6c14\u5305": {
+        "number": "821533",
+        "into": "\u6211\u6240\u6709\u7684\u597d\u8fd0\u90fd\u6512\u7740\u4e3a\u4e86\u9047\u89c1\u4e86\u4f60",
+        "year": "2019"
+    },
+    "\u516d\u5341\u5e74\u4ee3\u9760\u5973\u513f\u53d1\u5bb6\u81f4\u5bcc": {
+        "number": "279019",
+        "into": "\u9760\u5973\u513f\u53d1\u5bb6\u81f4\u5bcc",
+        "year": "2019"
+    },
+    "\u7a7f\u8d8a\u4e94\u96f6\u5e74\u4ee3\u5f53\u5b66\u9738": {
+        "number": "633483",
+        "into": "\u5b9e\u529b\u4e0d\u5141\u8bb8\u4f7f\u7528\u91d1\u624b\u6307",
+        "year": "2019"
+    },
+    "\u6211\u7684\u8001\u516c\u662f\u6cc9\u7075[\u91cd\u751f]": {
+        "number": "113608",
+        "into": "\u6211\u7684\u8001\u516c\u662f\u6cc9\u7075",
+        "year": "2019"
+    },
+    "\u5728\u4e03\u5341\u5e74\u4ee3\u4e5f\u8981\u6e34\u671b\u661f\u8fb0\u5927\u6d77": {
+        "number": "365130",
+        "into": "\u4e00\u4e2a\u5916\u661f\u4eba\u51fa\u751f\u5728\u4e03\u5341\u5e74\u4ee3\u7684\u6545\u4e8b",
+        "year": "2019"
+    },
+    "\u77e5\u9752\u4e91\u548c": {
+        "number": "372026",
+        "into": "\u7231\u4e0a\u56e0\u4f24\u9000\u4f0d\u7684\u5175\u54e5\u54e5",
+        "year": "2019"
+    },
+    "\u5728\u5e74\u4ee3\u6587\u91cc\u5f53\u6821\u56ed\u5973\u795e": {
+        "number": "143172",
+        "into": "\u6211\u6210\u4e86\u5047\u5343\u91d1\u672a\u5a5a\u592b\u7684\u767d\u6708\u5149",
+        "year": "2019"
+    },
+    "\u7a7f\u8d8a\u4e4b\u77e5\u9752\u65f6\u4ee3[\u7a7a\u95f4]": {
+        "number": "313177",
+        "into": "\u5e26\u7740\u7a7a\u95f4\u7a7f\u8d8a\u6210\u5973\u77e5\u9752\u4e0b\u4e61",
+        "year": "2019"
+    },
+    "\u516d\u96f6\u5e74\u4ee3\u4fcf\u4f73\u5ab3": {
+        "number": "300000",
+        "into": "\u77ed\u4ecb\u7ecd",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u53cd\u6d3e\u540e\u7684\u770b\u620f\u65e5\u5b50": {
+        "number": "100137",
+        "into": "\u4f5b\u7cfb\u8fd8\u662f\u4f5b\u4fee\uff1f",
+        "year": "2019"
+    },
+    "\u672b\u4e16\u5927\u4f6c\u5728\u4e03\u96f6": {
+        "number": "290764",
+        "into": "\u53c8\u7f8e\u53c8\u4f5c\u5c0f\u5996\u7cbe\u00d7\u53c8\u64a9\u53c8\u9a9a\u5927\u918b\u738b",
+        "year": "2019"
+    },
+    "\u5feb\u7a7f\u7ed3\u675f\u540e\u6211\u56de\u5230\u4e8670\u5e74\u4ee3": {
+        "number": "301565",
+        "into": "\u91d1\u624b\u6307\uff1a\u5b66\u5bcc\u4e94\u8f66:)",
+        "year": "2019"
+    },
+    "\u516d\u96f6\u4e4b\u798f\u8fd0\u5c0f\u72d0\u72f8": {
+        "number": "263673",
+        "into": "\u5c0f\u72d0\u72f8\u7684\u798f\u6c14\u5927\u7740\u5462\uff01",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u53cd\u6d3e\u540e\u5988\u600e\u4e48\u529e": {
+        "number": "1053075",
+        "into": "\u5168\u5bb6\u6211\u6700\u5a07\u6c14",
+        "year": "2019"
+    },
+    "\u4e03\u5341\u5e74\u4ee3\u5a07\u5ab3\u5987": {
+        "number": "438338",
+        "into": "\u8ffd\u59bb\u706b\u846c\u573a",
+        "year": "2019"
+    },
+    "\u516d\u96f6\u594b\u6597\u65e5\u5e38": {
+        "number": "508545",
+        "into": "\u516d\u96f6\u5e74\u4ee3\u592b\u592b\u56e4\u7cae\u65e5\u5e38",
+        "year": "2019"
+    },
+    "\u56de\u68631995": {
+        "number": "632487",
+        "into": "\u9738\u603b\u5c0f\u72fc\u72d7\u7684\u65e5\u5e38",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u7537\u795e\u7b14\u4e0b\u7684\u5973\u70ae\u7070": {
+        "number": "145555",
+        "into": "\u4f60\u4e5f\u662f\u7a7f\u4e66\u6765\u7684\uff1f\u65e9\u8bf4\u554a\uff01",
+        "year": "2019"
+    },
+    "\u6211\u5728\u516d\u96f6\u5356\u7ea2\u7cd6": {
+        "number": "196022",
+        "into": "\u516d\u5341\u5e74\u4ee3\u7ea2\u7cd6\u5927\u4f6c\u594b\u6597\u8bb0",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u4e4b\u767d\u83b2\u82b1\u4e0d\u767d": {
+        "number": "362207",
+        "into": "\u732b\u4e3b\u5b50\u4e0e\u72d7\u5974\u624d\u76f8\u7231\u4e86\uff01",
+        "year": "2019"
+    },
+    "\u5e74\u4ee3\u6587\u91cc\u7ea2\u697c\u4eba\u513f": {
+        "number": "300411",
+        "into": "\u7ea2\u697c\u4f17\u4eba\u4e0b\u4e61\u5927\u6539\u9020",
+        "year": "2019"
+    },
+    "\u4e03\u5341\u5e74\u4ee3\u767d\u6708\u5149": {
+        "number": "283334",
+        "into": "\u8fd9\u53ea\u662f\u4e00\u7bc7\u6253\u8138\u8212\u723d\u5954\u5c0f\u5eb7\u7684\u6587",
+        "year": "2019"
+    },
+    "\u732a\u7237\u7237\u5728\u4e03\u5341\u5e74\u4ee3": {
+        "number": "401503",
+        "into": "\u6253\u8138\uff01\u66b4\u5bcc\uff01\u517b\u732a\uff01",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u5e74\u4ee3\u4e4b\u5ab3\u5987\u6709\u7518\u9732": {
+        "number": "401633",
+        "into": "\u8c08\u8c08\u604b\u7231\u79cd\u79cd\u7530",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u4e4b\u5f53\u5bb6\u5ab3\u5987\u4e0d\u597d\u60f9": {
+        "number": "352011",
+        "into": "\u4f60\u7ed9\u6211\u54ac\u4e00\u53e3\u884c\u5417",
+        "year": "2019"
+    },
+    "\u4e07\u5c81\u7237\u5728\u516d\u96f6": {
+        "number": "428570",
+        "into": "\u6715\u7684\u5929\u4e0b\u53d8\u4e86\u6837~",
+        "year": "2019"
+    },
+    "\u91cd\u751f\u4e03\u96f6\u738b\u8001\u5934": {
+        "number": "385248",
+        "into": "\u5403\u7ce0\u54bd\u83dc\u540e\u5f00\u59cb\u53d1\u5bb6\u81f4\u5bcc",
+        "year": "2019"
+    },
+    "\u91cd\u751f\u516b\u96f6\u4e4b\u519b\u5ac2\u6709\u70b9\u751c": {
+        "number": "149774",
+        "into": "\u91cd\u56de\u516b\u96f6\u7684\u5c0f\u5973\u4eba\u64a9\u592b\u517b\u5305\u5b50",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u5c0f\u608d\u5973": {
+        "number": "488392",
+        "into": "\u5916\u751c\u5185\u608d\u7978\u5bb3\u599e",
+        "year": "2019"
+    },
+    "\u70ae\u7070\u7684\u767d\u83b2\u82b1\u65e5\u5e38[\u4e03\u96f6]": {
+        "number": "247968",
+        "into": "\u8fc7\u6765\uff0c\u8ba9\u6211\u4eb2\u4e00\u53e3~",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u5e74\u4ee3\u5973\u62a4\u58eb": {
+        "number": "101302",
+        "into": "\u8fd9\u95e8\u4eb2\u4e8b\uff0c\u6211\u4e0d\u540c\u610f\uff01",
+        "year": "2019"
+    },
+    "\u68a6\u5453\u9ec4\u571f": {
+        "number": "318608",
+        "into": "\u4e00\u573a\u6062\u590d\u9ec4\u571f\u9ad8\u539f\u7f8e\u666f\u7684\u68a6\u3002",
+        "year": "2019"
+    },
+    "\u4e5d\u96f6\u4e4b\u7a7f\u6210\u672a\u5a5a\u5988\u5988": {
+        "number": "287188",
+        "into": "\u95fb\u9999\u8bc6\u8001\u5a46",
+        "year": "2019"
+    },
+    "\u516d\u96f6\u5e74\u4ee3\u9009\u4e13\u4e1a": {
+        "number": "828652",
+        "into": "\u5b66\u4e60\u5956\u52b1\u7cfb\u7edf\u53ef\u4ee5\u6709\uff01",
+        "year": "2019"
+    },
+    "\u56de\u5230\u4e03\u96f6\u5f53\u608d\u5987[\u7a7f\u4e66]": {
+        "number": "130745",
+        "into": "\u6211\u7a7f\u6210\u4e86\u6cfc\u8fa3\u608d\u5987",
+        "year": "2019"
+    },
+    "\u91cd\u751f\u4e03\u96f6\u82b3\u534e\u6d53": {
+        "number": "475619",
+        "into": "\u771f\u60c5\u65f6\u4ee3\uff0c\u7231\u6211\u6240\u7231",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u4e4b\u5be1\u5987\u559c\u5f53\u5988": {
+        "number": "445280",
+        "into": "\u5c0f\u5be1\u5987\u559c\u5f53\u5988",
+        "year": "2019"
+    },
+    "\u68e0\u68a8\u65e7": {
+        "number": "127477",
+        "into": "\u6c11\u56fd\u4e71\u4e16\uff0c\u8d35\u516c\u5b50\u548c\u540d\u4f36\u5982\u4f55\u76f8\u7231",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u6863\u6848\u8bb0\u5f55\u5458[\u7a7f\u4e66]": {
+        "number": "455069",
+        "into": "\u548b\u7684\u5c31\u6210\u4e86\u6d41\u6c13\u4e86",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u9003\u8dd1\u5c0f\u77e5\u9752": {
+        "number": "108100",
+        "into": "\u518d\u9003\u5c31\u4eb2\u4f60\u4e86",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u4e5d\u96f6\u767d\u5bcc\u7f8e": {
+        "number": "121036",
+        "into": "\u5973\u914d\u8981\u8650\u4e3b",
+        "year": "2019"
+    },
+    "\u6211\u5728\u516d\u96f6\u5f53\u5b66\u9738": {
+        "number": "220367",
+        "into": "\u5b66\u4e60\u4f7f\u6211\u5feb\u4e50",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u6781\u54c1\u5c0f\u5ab3\u5987": {
+        "number": "201744",
+        "into": "\u571f\u80a5\u5706\u7684\u7ffb\u8eab\u4e4b\u8def",
+        "year": "2019"
+    },
+    "\u968f\u8eab\u7a7a\u95f4\u4e4b\u91d1\u5a5a": {
+        "number": "143334",
+        "into": "\u968f\u5fc3\u751f\u6d3b\uff0c\u5b8c\u8650\u5404\u79cd\u5c0f\u4e09\u3002",
+        "year": "2019"
+    },
+    "\u592b\u59bb\u53cc\u53cc\u56de\u516d\u96f6": {
+        "number": "380783",
+        "into": "\u5b9d\u85cf\u592b\u59bb\u7684\u60a0\u95f2\u751f\u6d3b",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u4e4b\u5f6a\u608d\u5973\u77e5\u9752": {
+        "number": "876009",
+        "into": "\u77a7\u7740\u5f6a\u608d\u4e00\u5bb6\u5b50\uff01\u80fd\u52a8\u624b\u522b\u54d4\u54d4\uff01",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u4e4b\u5927\u4f6c\u5f53\u5bb6": {
+        "number": "181399",
+        "into": "\u6211\u5728\u4e03\u96f6\u4f5c\u5929\u4f5c\u5730\uff01",
+        "year": "2019"
+    },
+    "\u7a7f\u6210\u516d\u5341\u5e74\u4ee3\u5973\u70ae\u7070[\u7a7f\u4e66]": {
+        "number": "339601",
+        "into": "\u70ae\u7070\u5973\u914d\u7684\u5f00\u6302\u4eba\u751f",
+        "year": "2019"
+    },
+    "\u9ec4\u660f\u6de1\u65e5": {
+        "number": "167231",
+        "into": "\u9001\u7ed9\u5b64\u706f\u4e0b\u5b89\u9759\u770b\u4e66\u7684\u4eba\u4eec\u3002",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u4e4b\u70ae\u7070\u5c0f\u5a07\u59bb": {
+        "number": "561408",
+        "into": "\u5199\u4e66\u4e00\u65f6\u723d\uff0c\u7a7f\u4e66\u706b\u846c\u573a\uff01",
+        "year": "2019"
+    },
+    "\u4e27\u5c38\u5728\u4e03\u96f6": {
+        "number": "189773",
+        "into": "\u4f5b\u7cfb\u4e27\u5c38\u7684\u6210\u4eba\u4e4b\u8def",
+        "year": "2019"
+    },
+    "\u516d\u5341\u5e74\u4ee3\u5c0f\u5a07\u59bb": {
+        "number": "272515",
+        "into": "\u4e8c\u8d27\u7cfb\u7edf\u5751\u6b7b\u4eba\uff01",
+        "year": "2019"
+    },
+    "\u516d\u96f6\u5e74\u4ee3\u795e\u53e8\u53e8": {
+        "number": "666666",
+        "into": "\u4eba\u524d\u79d1\u5b66\uff0c\u4eba\u540e\u7384\u5b66",
+        "year": "2019"
+    },
+    "\u6211\u548c\u6211\u7684\u6c99\u96d5\u8001\u516c": {
+        "number": "869949",
+        "into": "\u50bb\u96d5\u662f\u6211\u4e00\u751f\u5feb\u4e50\u6e90\u6cc9",
+        "year": "2019"
+    },
+    "\u4e03\u5341\u5e74\u4ee3\u559c\u5f53\u5988[\u7a7f\u4e66]": {
+        "number": "486602",
+        "into": "\u53cd\u6d3e\u4e00\u5bb6\u76f8\u4eb2\u76f8\u7231",
+        "year": "2019"
+    },
+    "\u4e3b\u4e0a\u5927\u4eba\u662f\u95f7\u9a9a": {
+        "number": "105673",
+        "into": "\u4e3b\u4e0a\u5927\u4eba\u679c\u7136\u662f\u95f7\u9a9a\u536b\u6c34\u6068\u6068\u7684\u60f3",
+        "year": "2019"
+    },
+    "\u5ac1\u8fdb\u8c6a\u95e8\u8981\u52aa\u529b": {
+        "number": "192476",
+        "into": "\u4eca\u5929\u4e5f\u8981\u52aa\u529b\u594b\u6597\u9e2d\uff01",
+        "year": "2019"
+    },
+    "\u7a7f\u8d8a\u5929\u8863\u65e0\u7f1d\u4e4b\u8d35\u6e90": {
+        "number": "113741",
+        "into": "\u7a7f\u8d8a\u5929\u8863\u65e0\u7f1d\u540c\u4eba\u5c0f\u8bf4",
+        "year": "2019"
+    },
+    "\u5728\u5e74\u4ee3\u6587\u4e2d\u4e0d\u601d\u8fdb\u53d6": {
+        "number": "572055",
+        "into": "\u4e0d\u5c0f\u5fc3\u62a2\u4e86\u5973\u4e3b\u7684\u7537\u4eba=",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u6e14\u5bb6\u5c0f\u5976\u72d7": {
+        "number": "297972",
+        "into": "\u8fd9\u6837\u9ecf\u4eba\u5fe0\u5fc3\u7684\u5c0f\u5976\u72d7\uff0c\u7231\u4e0d\u7231\uff1f",
+        "year": "2019"
+    },
+    "\u516d\u96f6\u5e74\u6709\u70b9\u751c[\u7a7f\u4e66]": {
+        "number": "127225",
+        "into": "\u516d\u96f6\u5e74\uff0c\u4f17\u751f\u7686\u82e6\uff0c\u53ea\u6709\u5979\u5f88\u751c\uff01",
+        "year": "2019"
+    },
+    "\u4e03\u5341\u5e74\u4ee3\u771f\u5343\u91d1[\u7a7f\u4e66]": {
+        "number": "266446",
+        "into": "\u7a7f\u4e66\u5c0f\u5996\u7cbeVS\u91cd\u751f\u918b\u575b\u5b50",
+        "year": "2019"
+    },
+    "\u7b97\u547d\u5e08\u5728\u4e03\u96f6": {
+        "number": "615193",
+        "into": "\u6211\u662f\u7b97\u547d\u7684\uff0c\u4e0d\u662f\u6293\u9b3c\u7684\u3002",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u5e74\u4ee3\u5c0f\u608d\u59bb": {
+        "number": "123025",
+        "into": "\u91cd\u751f\u516b\u96f6\u5e74\u4ee3\uff0c\u5ac1\u7ed9\u5175\u54e5\u54e5\u7f8e\u6ecb\u6ecb",
+        "year": "2019"
+    },
+    "\u91cd\u751f\u540e\u88ab\u7f8e\u98df\u6df9\u6ca1": {
+        "number": "518465",
+        "into": "\u516b\u5341\u5e74\u4ee3\u79cd\u7530\u53d1\u5bb6\u65e5\u5e38",
+        "year": "2019"
+    },
+    "\u91cd\u751f\u516b\u96f6\u4e4b\u592b\u5531\u5987\u968f": {
+        "number": "415114",
+        "into": "\u5ba0\u59bb\u751f\u5a03\u8d5a\u5927\u94b1\uff01",
+        "year": "2019"
+    },
+    "\uff08\u5973\u7a7f\u7537\uff09\u7687\u5e84\u5b37\u5b37\u5230\u516d\u96f6": {
+        "number": "302524",
+        "into": "\u7537\u4e3b\u91d1\u624b\u6307\u5de8\u5927\u5374\u8d85\u8870\u7684\u5e74\u4ee3\u6587",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u5973\u77e5\u9752[\u7a7f\u4e66]": {
+        "number": "1624141",
+        "into": "\u5a07\u5ba0\u53cd\u6d3e\u5c0f\u5ab3\u5987\uff0c\u5ba0\u5ba0\u5ba0\u2026\u2026",
+        "year": "2019"
+    },
+    "\u9526\u9ca4\u8001\u516c\u5728\u516d\u96f6": {
+        "number": "555354",
+        "into": "\u592b\u59bb\u4fe9\u65e5\u5e38\u6d12\u72d7\u7cae",
+        "year": "2019"
+    },
+    "\u4e61\u4e1d\u94fe": {
+        "number": "365006",
+        "into": "\u4e16\u7eaa\u672b\u7684\u5e02\u4e95\u5f80\u4e8b",
+        "year": "2019"
+    },
+    "\u91cd\u751f\u4e5d\u96f6\u5c0f\u795e\u5a46": {
+        "number": "166866",
+        "into": "\u5973\u4e3b\u662f\u6735\u9ed1\u5fc3\u68c9\u3002",
+        "year": "2019"
+    },
+    "\u6211\u5728\u516d\u5341\u5e74\u4ee3\u5f53\u5973\u4e3b[\u7a7f\u4e66]": {
+        "number": "312686",
+        "into": "\u5973\u4e3b\u56de\u5230\u516d\u5341\u5e74\u4ee3\u7684\u751f\u6d3b",
+        "year": "2019"
+    },
+    "\u91cd\u751f\u4e03\u96f6\u4e4b\u54d1\u5973\u591a\u5a07": {
+        "number": "157895",
+        "into": "\u91cd\u751f\u9738\u603b\u604b\u4e0a\u4fcf\u54d1\u5973",
+        "year": "2019"
+    },
+    "\u6e23\u7537\u6539\u9020\u8ba1\u5212[\u4e5d\u96f6]": {
+        "number": "206912",
+        "into": "\u7a7f\u56de90\u5ac1\u7ed9\u81ea\u5df1\u662f\u4ec0\u4e48\u4f53\u9a8c",
+        "year": "2019"
+    },
+    "\u516b\u96f6\u4e4b\u7a7f\u6210\u7537\u914d\u6000\u5b55\u59bb": {
+        "number": "254736",
+        "into": "\u517b\u5a03\uff0c\u56e4\u5730\uff0c\u8c08\u604b\u7231",
+        "year": "2019"
+    },
+    "\u4e03\u96f6\u4e4b\u5be1\u5987\u597d\u5ac1": {
+        "number": "172407",
+        "into": "\u4e03\u96f6\u5be1\u5987\u597d\u5ac1",
+        "year": "2019"
+    },
+    "\u7a7f\u8d8a\u4e03\u96f6\u4e4b\u5305\u79df\u5a46\u7684\u5e78\u798f\u751f\u6d3b": {
+        "number": "537170",
+        "into": "\u53f6\u5c0f\u96e8\u52aa\u529b\u5f53\u4e0a\u5305\u79df\u5a46\u7684\u4eba\u751f",
+        "year": "2019"
+    },
+    "\u603b\u60f3\u7ed9\u7537\u4e3b\u5b89\u5229\u8001\u5a46[\u5feb\u7a7f]": {
+        "number": "215697",
+        "into": "\u5feb\u7a7f\u5c0f\u751c\u6587",
+        "year": "2019"
+    },
+    "\u7687\u5bb6\u7236\u5b50\u5728\u4e03\u96f6": {
+        "number": "132016",
+        "into": "\u6c99\u96d5\u7236\u5b50\u79cd\u7530\u604b\u7231\u65e5\u5e38",
+        "year": "2019"
+    },
+    "\u4ed6\u4eec\u90fd\u5728\u8bd5\u56fe\u60f9\u6012\u6211": {
+        "number": "403026",
+        "into": "\u9526\u9ca4\u53d7\u548c\u5927\u8682\u8681\u653b",
+        "year": "2019"
+    },
+    "\u592b\u59bb\u643a\u624b\u628a\u5a03\u517b": {
+        "number": "278681",
+        "into": "\u592b\u59bb\u56de\u5230\u4e03\u96f6\u5e74\u4ee3\u517b\u5a03\u65e5\u5e38",
+        "year": "2019"
+    },
+    "\u8fdb\u51fb\u7684\u519c\u5987[\u5e74\u4ee3]": {
+        "number": "4830386",
+        "into": "\u5e74\u4ee3\u751f\u5b58\u81f4\u5bcc\u624b\u518c",
+        "year": "2019"
+    },
+    "\u516d\u96f6\u5c0f\u592b\u59bb": {
+        "number": "323072",
+        "into": "\u516d\u96f6\u5c0f\u592b\u59bb\u52aa\u529b\u517b\u5bb6\u7684\u6545\u4e8b\u3002",
+        "year": "2019"
+    }
+}
